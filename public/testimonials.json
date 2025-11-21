@@ -1,0 +1,52 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Web Developer",
+      "review": "Far far away, behind the word mountains, there live the blind texts. Separated they marks grove right at the coast of the Semantics a large language ocean. These texts are not only blind but full of stories, waiting to inspire students who seek knowledge, creativity, and innovation through online learning platforms.",
+      "rating": 5,
+      "image": "/assets/home/card_img_2.png"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "UI/UX Designer",
+      "review": "Separated they marks grove right at the coast of the Semantics, inspiring creativity, curiosity, and innovative thinking among learners from all over the world. Online courses make it possible to explore various fields and gain knowledge anytime, anywhere.",
+      "rating": 4,
+      "image": "/assets/home/card_img_2.png"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "title": "Fullstack Developer",
+      "review": "There live the blind texts, far from the mountains of Consonantia. Learning online provides flexibility, allowing students to balance work, studies, and hobbies while gaining valuable knowledge and skills for career growth.",
+      "rating": 5,
+      "image": "/assets/home/card_img_2.png"
+    },
+    {
+      "id": 4,
+      "name": "Bob Williams",
+      "title": "Data Analyst",
+      "review": "Far from the Consonantia, there live the blind texts, providing opportunities for learners to explore, understand, and grow their skills in various domains through online learning platforms designed for all levels.",
+      "rating": 5,
+      "image": "/assets/home/card_img_2.png"
+    },
+    {
+      "id": 5,
+      "name": "Eva Brown",
+      "title": "Backend Engineer",
+      "review": "Separated they marks grove right at the coast, where students can engage with rich content, learn hands-on projects, and develop expertise in technology and creative fields for future success.",
+      "rating": 4,
+      "image": "/assets/home/card_img_2.png"
+    },
+    {
+      "id": 6,
+      "name": "Chris Lee",
+      "title": "Frontend Developer",
+      "review": "Far far away, behind the word mountains, there live the blind texts. The online courses allow students to learn at their own pace, explore diverse subjects, and acquire skills necessary for professional growth in modern industries.",
+      "rating": 5,
+      "image": "/assets/home/card_img_2.png"
+    }
+  ]
+}
