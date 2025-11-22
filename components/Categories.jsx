@@ -31,7 +31,7 @@ const Categories = () => {
   return (
     <section className="text-center py-16 bg-gray-50">
       <h4 className="text-[#0fb6e3] text-xl font-semibold relative inline-block mb-3 before:absolute before:-left-6 before:top-1/2 before:w-4 before:h-1 before:bg-blue-500 before:rounded-full after:absolute after:-right-6 after:top-1/2 after:w-4 after:h-1 after:bg-blue-500 after:rounded-full">
-        Browse Categories
+        Expensive Categories
       </h4>
       <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-black/80 mb-4 leading-snug">Explore Online Courses</h1>
 

@@ -145,7 +145,7 @@ export default function Courses() {
     <div className="min-h-screen bg-gray-50 p-4">
       <div className="max-w-7xl mx-auto mb-12 text-center mt-20">
         <h4 className="text-[#0fb6e3] ms-6 text-xl font-semibold relative inline-block mb-3 before:absolute before:-left-6 before:top-1/2 before:w-4 before:h-1 before:bg-blue-500 before:rounded-full after:absolute after:-right-6 after:top-1/2 after:w-4 after:h-1 after:bg-blue-500 after:rounded-full text-center">
-          LATEST COURSES
+          Brows COURSES
         </h4>
 
         <div className="mt-10 flex flex-col md:flex-row items-center md:items-start justify-between gap-4">
