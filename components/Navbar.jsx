@@ -11,7 +11,7 @@ const [menuOpen, setMenuOpen] = useState(false);
 
 const toggleMenu = () => setMenuOpen(!menuOpen);
 
-const navItems = ["Home", "Categories", "About", "Courses", ""];
+const navItems = ["Home", "Categories", "About", "Courses"];
 
 return ( <header className="w-full">
 <div className="hidden lg:flex bg-[#031d24] text-white text-sm justify-between items-center px-8 py-2"> <div className="flex items-center gap-6"> <div className="flex items-center gap-2"> <FaPhoneAlt className="text-[#0fb6e3]" /> <span>Call: 016 37 652 900</span> </div>

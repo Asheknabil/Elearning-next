@@ -26,12 +26,12 @@ const Footer = () => {
 
             <div className="flex items-center gap-3 mb-3">
               <FaPhoneAlt className="text-[#0fb6e3]" />
-              <p>+23 (000) 68 603</p>
+              <p>+880 1637 652900</p>
             </div>
 
             <div className="flex items-center gap-3">
               <FaMapMarkerAlt className="text-[#0fb6e3]" />
-              <p>66 Brooklyn Golden Street, New York, USA</p>
+              <p>Mohakhali, Dhaka, Bangladesh</p>
             </div>
           </div>
 
