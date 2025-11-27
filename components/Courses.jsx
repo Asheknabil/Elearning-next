@@ -2,6 +2,8 @@
 
 import { useEffect, useState, useMemo } from "react";
 import { Star, Dot, User } from "lucide-react";
+import Link from "next/link";
+
 
 const StarRating = ({ rating }) => {
   const fullStars = Math.floor(rating);
@@ -68,9 +70,13 @@ const Course = ({ course }) => {
               <span className="text-2xl font-extrabold text-[#063441]">${course.price}</span>
             </div>
             <div className="flex items-center justify-between pt-4">
-              <button className="px-4 py-2 text-sm font-semibold border border-2 border-[#0fb6e3] text-black rounded-lg hover:bg-[#16748e] hover:text-white shadow-md transition-all duration-300 hover:shadow-lg">
-                Enroll Now
-              </button>
+              
+              <Link href={`/video/${course.id}`}>
+                <button className="px-4 py-2 text-sm font-semibold border border-2 border-[#0fb6e3] text-black rounded-lg hover:bg-[#16748e] hover:text-white shadow-md transition-all duration-300 hover:shadow-lg">
+                  Enroll Now
+                </button>
+              </Link>
+
               <div className="flex items-center text-sm text-gray-500">
                 <User className="w-4 h-4 mr-1" />
                 <span>{course.instructor}</span>
@@ -111,7 +117,7 @@ export default function Courses() {
     fetchCourses();
   }, []);
 
-  const categories = ["All", "Design", "Development", "Academic", "E-Learning", "ML"];
+  const categories = ["All", "Design", "Development", "Academic", "E-Learning", "Machine Learning"];
 
   const currentCategoryCourses = useMemo(() => {
     return activeFilter === "All"
