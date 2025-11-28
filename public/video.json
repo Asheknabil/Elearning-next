@@ -1,1080 +1,1216 @@
 {
   "d1": [
     {
-      "id": "gd1",
-      "title": "What is Graphic Design? Full Introduction",
-      "desc": "Graphic design basics explained clearly. Learn the role, use cases, and fundamentals behind modern design.",
-      "thumbnail": "https://i.ibb.co/4f1pM7Q/thumbnail1.jpg",
-      "url": "https://www.youtube.com/embed/O6j8h37cC2U"
+      "id": "d1v1",
+      "title": "Graphic Design Basics for Beginners",
+      "desc": "Learn the fundamentals of layout, typography and visual balance in design.",
+      "thumbnail": "https://picsum.photos/300/200?random=11",
+      "url": "https://www.youtube.com/embed/Dv7gLpW91DM"
     },
     {
-      "id": "gd2",
-      "title": "Color Theory for Designers",
-      "desc": "A practical explanation of color harmony, contrast, and palette creation for real design work.",
-      "thumbnail": "https://i.ibb.co/5G0tjFb/thumbnail2.jpg",
+      "id": "d1v2",
+      "title": "Color Theory Explained",
+      "desc": "Understand hue, saturation, contrast and how to build color harmony.",
+      "thumbnail": "https://picsum.photos/300/200?random=12",
       "url": "https://www.youtube.com/embed/Qj1FK8n7WgY"
     },
     {
-      "id": "gd3",
-      "title": "Typography Basics Tutorial",
-      "desc": "Learn how typography works—fonts, spacing, line height and character design for better layouts.",
-      "thumbnail": "https://i.ibb.co/DQWKcGH/thumbnail3.jpg",
-      "url": "https://www.youtube.com/embed/3Qk0lQ38Jdw"
+      "id": "d1v3",
+      "title": "What is Typography?",
+      "desc": "A simple explanation of fonts, spacing and visual rhythm in typography.",
+      "thumbnail": "https://picsum.photos/300/200?random=13",
+      "url": "https://www.youtube.com/embed/9Xx578FJ2Gk"
     },
     {
-      "id": "gd4",
-      "title": "How to Use Shapes in Design",
-      "desc": "Modern design principles on using geometric shapes to build beautiful visuals.",
-      "thumbnail": "https://i.ibb.co/d0dXhp4/thumbnail4.jpg",
-      "url": "https://www.youtube.com/embed/yy8F8E0k2_Q"
+      "id": "d1v4",
+      "title": "Logo Design Process",
+      "desc": "Learn professional logo design workflow and creative techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=14",
+      "url": "https://www.youtube.com/embed/jtwkW5Uo74E"
     },
     {
-      "id": "gd5",
-      "title": "Layout and Composition",
-      "desc": "Understand grids, alignment, balance, and spacing to arrange visual elements properly.",
-      "thumbnail": "https://i.ibb.co/3kSVNHQ/thumbnail5.jpg",
-      "url": "https://www.youtube.com/embed/1kYQdPjZQEY"
+      "id": "d1v5",
+      "title": "Adobe Photoshop Beginner Guide",
+      "desc": "A step-by-step introduction to using layers, tools and effects in Photoshop.",
+      "thumbnail": "https://picsum.photos/300/200?random=15",
+      "url": "https://www.youtube.com/embed/_w8I8n4YxD8"
     },
     {
-      "id": "gd6",
-      "title": "Complete Graphic Design Workflow",
-      "desc": "A step-by-step guide to planning and designing a professional graphic project.",
-      "thumbnail": "https://i.ibb.co/S6kF6gd/thumbnail6.jpg",
-      "url": "https://www.youtube.com/embed/GhYFJcNQ35E"
+      "id": "d1v6",
+      "title": "Graphic Design Tips & Tricks",
+      "desc": "Useful design tips that help you create more professional visuals.",
+      "thumbnail": "https://picsum.photos/300/200?random=16",
+      "url": "https://www.youtube.com/embed/rDMEH0rFWBI"
     }
   ],
 
   "d2": [
     {
-      "id": "ux1",
-      "title": "UI/UX Introduction for Beginners",
-      "desc": "Learn the difference between UI and UX and how modern product design works.",
-      "thumbnail": "https://i.ibb.co/Np9htzC/thumbnail7.jpg",
-      "url": "https://www.youtube.com/embed/W_j8tKii8lE"
+      "id": "d2v1",
+      "title": "UI/UX Introduction",
+      "desc": "Understand the basics of user interface and user experience design.",
+      "thumbnail": "https://picsum.photos/300/200?random=21",
+      "url": "https://www.youtube.com/embed/_Qe7b7o7–0"
     },
     {
-      "id": "ux2",
+      "id": "d2v2",
       "title": "Wireframing Basics",
-      "desc": "How to draw simple wireframes to structure your digital products easily.",
-      "thumbnail": "https://i.ibb.co/9hmY1k9/thumbnail8.jpg",
-      "url": "https://www.youtube.com/embed/Q_kYwJ8nKCo"
+      "desc": "Learn how to create wireframes before moving to a high-fidelity prototype.",
+      "thumbnail": "https://picsum.photos/300/200?random=22",
+      "url": "https://www.youtube.com/embed/h–NYtR–6A"
     },
     {
-      "id": "ux3",
-      "title": "User Research Explained",
-      "desc": "Learn how to understand users and gather proper insights before designing.",
-      "thumbnail": "https://i.ibb.co/F06FBZJ/thumbnail9.jpg",
-      "url": "https://www.youtube.com/embed/6N7Q1D2s6Yw"
+      "id": "d2v3",
+      "title": "How to Prototype",
+      "desc": "Step-by-step method of converting UI screens into interactive prototypes.",
+      "thumbnail": "https://picsum.photos/300/200?random=23",
+      "url": "https://www.youtube.com/embed/4–M9L–z8"
     },
     {
-      "id": "ux4",
-      "title": "UX Prototyping Tutorial",
-      "desc": "A complete walkthrough of building interactive prototypes.",
-      "thumbnail": "https://i.ibb.co/yN91ybt/thumbnail10.jpg",
-      "url": "https://www.youtube.com/embed/FsvjFJXKXlM"
+      "id": "d2v4",
+      "title": "UX Research Explained",
+      "desc": "Learn user research methods and how to apply them in real design projects.",
+      "thumbnail": "https://picsum.photos/300/200?random=24",
+      "url": "https://www.youtube.com/embed/–C–HS–ev"
     },
     {
-      "id": "ux5",
-      "title": "UI Visual Design Tricks",
-      "desc": "Learn how to use spacing, shadows, and typography to improve UI design.",
-      "thumbnail": "https://i.ibb.co/DGdqPjc/thumbnail11.jpg",
-      "url": "https://www.youtube.com/embed/9Lxc2X2hYj8"
+      "id": "d2v5",
+      "title": "Usability Testing Guide",
+      "desc": "How to test your designs with real users for maximum effectiveness.",
+      "thumbnail": "https://picsum.photos/300/200?random=25",
+      "url": "https://www.youtube.com/embed/–ax–s–u"
     },
     {
-      "id": "ux6",
-      "title": "Complete UI/UX Workflow",
-      "desc": "Research, wireframe, prototype, test, and finalize real digital products.",
-      "thumbnail": "https://i.ibb.co/0ZKMPwQ/thumbnail12.jpg",
-      "url": "https://www.youtube.com/embed/KzDIUosfK7M"
+      "id": "d2v6",
+      "title": "UI Layout Rules",
+      "desc": "Learn alignment, visual hierarchy and spacing for better UI.",
+      "thumbnail": "https://picsum.photos/300/200?random=26",
+      "url": "https://www.youtube.com/embed/5T–i3–Z"
     }
   ],
 
   "d3": [
     {
-      "id": "ty1",
-      "title": "Typography Fundamentals",
-      "desc": "Learn font families, weights, spacing, and real-life use of text in design.",
-      "thumbnail": "https://i.ibb.co/MkycZ8N/thumbnail13.jpg",
-      "url": "https://www.youtube.com/embed/zpIjz3WBiug"
+      "id": "d3v1",
+      "title": "Advanced Typography",
+      "desc": "Deep dive into type families, readability and typographic grids.",
+      "thumbnail": "https://picsum.photos/300/200?random=31",
+      "url": "https://www.youtube.com/embed/9Xx578FJ2Gk"
     },
     {
-      "id": "ty2",
-      "title": "Brand Identity Basics",
-      "desc": "Learn how logos, colors, and typography build strong brand identity.",
-      "thumbnail": "https://i.ibb.co/TYg7T8j/thumbnail14.jpg",
-      "url": "https://www.youtube.com/embed/lP9xmKpYc70"
+      "id": "d3v2",
+      "title": "Brand Design Basics",
+      "desc": "Build consistent branding systems using colors, shapes and typography.",
+      "thumbnail": "https://picsum.photos/300/200?random=32",
+      "url": "https://www.youtube.com/embed/2Jc–S–k"
     },
     {
-      "id": "ty3",
-      "title": "How to Design Professional Logos",
-      "desc": "Step-by-step guide to create simple, modern and clean logo styles.",
-      "thumbnail": "https://i.ibb.co/6N2Cmqz/thumbnail15.jpg",
-      "url": "https://www.youtube.com/embed/yJbVddNRU6A"
+      "id": "d3v3",
+      "title": "How to Create Style Guides",
+      "desc": "Learn to create design guidelines used in professional branding.",
+      "thumbnail": "https://picsum.photos/300/200?random=33",
+      "url": "https://www.youtube.com/embed/—E–l2Y"
     },
     {
-      "id": "ty4",
-      "title": "Understanding Design Psychology",
-      "desc": "Know how humans see visuals and how to design for maximum impact.",
-      "thumbnail": "https://i.ibb.co/8jvNkkT/thumbnail16.jpg",
-      "url": "https://www.youtube.com/embed/7MupD7OJbM4"
+      "id": "d3v4",
+      "title": "Brand Identity Rules",
+      "desc": "Understand how companies maintain identity across all designs.",
+      "thumbnail": "https://picsum.photos/300/200?random=34",
+      "url": "https://www.youtube.com/embed/4t–N–O"
     },
     {
-      "id": "ty5",
-      "title": "Branding Case Study",
-      "desc": "Real-life example of building a brand identity from scratch.",
-      "thumbnail": "https://i.ibb.co/1rfRyd9/thumbnail17.jpg",
-      "url": "https://www.youtube.com/embed/8Ir5K1o4xL4"
+      "id": "d3v5",
+      "title": "Designing Business Cards",
+      "desc": "A simple tutorial on creating professional business cards.",
+      "thumbnail": "https://picsum.photos/300/200?random=35",
+      "url": "https://www.youtube.com/embed/–3q–z–k"
     },
     {
-      "id": "ty6",
-      "title": "Typography Advanced",
-      "desc": "Master spacing, rhythm, grids, and visual hierarchy for typography.",
-      "thumbnail": "https://i.ibb.co/NVKRmcL/thumbnail18.jpg",
-      "url": "https://www.youtube.com/embed/bbKSjFjfiTk"
-    }
-  ],
-    "d4": [
-    {
-      "id": "bl1",
-      "title": "Blender Beginner Tutorial",
-      "desc": "Learn the basics of Blender interface and core modeling tools in this introduction.",
-      "thumbnail": "https://i.ibb.co/B63g0Yb/thumbnail19.jpg",
-      "url": "https://www.youtube.com/embed/TPrnSACiTJ4"
-    },
-    {
-      "id": "bl2",
-      "title": "3D Modeling Basics",
-      "desc": "How to create and manipulate 3D shapes, objects, and geometry inside Blender.",
-      "thumbnail": "https://i.ibb.co/YB1TsXR/thumbnail20.jpg",
-      "url": "https://www.youtube.com/embed/VT5oZndzj68"
-    },
-    {
-      "id": "bl3",
-      "title": "Blender Texturing Guide",
-      "desc": "Texture mapping, UV unwrap and materials explained with hands-on examples.",
-      "thumbnail": "https://i.ibb.co/MN8r2R0/thumbnail21.jpg",
-      "url": "https://www.youtube.com/embed/tMk1QpUq3EY"
-    },
-    {
-      "id": "bl4",
-      "title": "Lighting in Blender",
-      "desc": "Learn how 3-point lighting, HDRI lighting and natural shadows improve your scene.",
-      "thumbnail": "https://i.ibb.co/ynLjB0n/thumbnail22.jpg",
-      "url": "https://www.youtube.com/embed/iTQ3cE4r7zY"
-    },
-    {
-      "id": "bl5",
-      "title": "Blender Rendering Basics",
-      "desc": "A complete guide to rendering realistic scenes using Cycles and Eevee engines.",
-      "thumbnail": "https://i.ibb.co/m5Ctp7W/thumbnail23.jpg",
-      "url": "https://www.youtube.com/embed/kf8r-VQxjG8"
-    },
-    {
-      "id": "bl6",
-      "title": "Blender Full Workflow",
-      "desc": "Model, texture, light, and render your first complete 3D project in Blender.",
-      "thumbnail": "https://i.ibb.co/Z6Wg2ZC/thumbnail24.jpg",
-      "url": "https://www.youtube.com/embed/cpqaICxS1TU"
+      "id": "d3v6",
+      "title": "Brand Storytelling",
+      "desc": "Learn how to represent a brand's story visually and emotionally.",
+      "thumbnail": "https://picsum.photos/300/200?random=36",
+      "url": "https://www.youtube.com/embed/–eE–7–M"
     }
   ],
 
-  "d5": [
+  "v1": [
     {
-      "id": "ps1",
-      "title": "Photoshop Beginner Tutorial",
-      "desc": "Understand the Photoshop interface, layers, tools and editing basics.",
-      "thumbnail": "https://i.ibb.co/sFX4CyG/thumbnail25.jpg",
-      "url": "https://www.youtube.com/embed/lnS8p5FVU5E"
-    },
-    {
-      "id": "ps2",
-      "title": "Photo Retouching Basics",
-      "desc": "Learn how to clean, retouch, and enhance portraits using Photoshop.",
-      "thumbnail": "https://i.ibb.co/g3f8Jc5/thumbnail26.jpg",
-      "url": "https://www.youtube.com/embed/FzbUPkGgn44"
-    },
-    {
-      "id": "ps3",
-      "title": "Remove Backgrounds Easily",
-      "desc": "A complete guide on cutting subjects, removing backgrounds, and masking.",
-      "thumbnail": "https://i.ibb.co/Kx8T1mp/thumbnail27.jpg",
-      "url": "https://www.youtube.com/embed/2xTdsCtAsmc"
-    },
-    {
-      "id": "ps4",
-      "title": "Photoshop Manipulation",
-      "desc": "Creative photo manipulation using composite layers and lighting tricks.",
-      "thumbnail": "https://i.ibb.co/Z2Sfkrb/thumbnail28.jpg",
-      "url": "https://www.youtube.com/embed/qW7uJv3IuXY"
-    },
-    {
-      "id": "ps5",
-      "title": "Advanced Layer Techniques",
-      "desc": "Learn blending modes, smart objects, curves and advanced tools.",
-      "thumbnail": "https://i.ibb.co/DrYdFXM/thumbnail29.jpg",
-      "url": "https://www.youtube.com/embed/hQfFJwVXZvY"
-    },
-    {
-      "id": "ps6",
-      "title": "Photoshop Full Course",
-      "desc": "A complete beginner to advanced tutorial for mastering Photoshop.",
-      "thumbnail": "https://i.ibb.co/5h4bfsS/thumbnail30.jpg",
-      "url": "https://www.youtube.com/embed/SpQvGdWc0K8"
-    }
-  ],
-
-  "d6": [
-    {
-      "id": "il1",
-      "title": "Illustrator Beginner Guide",
-      "desc": "Learn the Illustrator basics such as paths, shapes, and the pen tool.",
-      "thumbnail": "https://i.ibb.co/gvDyQWc/thumbnail31.jpg",
-      "url": "https://www.youtube.com/embed/I0S4T2q59Vg"
-    },
-    {
-      "id": "il2",
-      "title": "Logo Design in Illustrator",
-      "desc": "Create simple and modern logos using tools, grids, and curves.",
-      "thumbnail": "https://i.ibb.co/ggK59jc/thumbnail32.jpg",
-      "url": "https://www.youtube.com/embed/2WOTR20v-vQ"
-    },
-    {
-      "id": "il3",
-      "title": "Vector Illustration",
-      "desc": "Learn vector drawing, shape building, and coloring techniques.",
-      "thumbnail": "https://i.ibb.co/T1X3BxF/thumbnail33.jpg",
-      "url": "https://www.youtube.com/embed/ZsUW7CwQkjY"
-    },
-    {
-      "id": "il4",
-      "title": "Gradient & Mesh",
-      "desc": "Understand how gradient mesh creates realistic vector objects.",
-      "thumbnail": "https://i.ibb.co/RcW2ZXg/thumbnail34.jpg",
-      "url": "https://www.youtube.com/embed/qO0N8T8q_kA"
-    },
-    {
-      "id": "il5",
-      "title": "Advanced Illustrator Tools",
-      "desc": "Master appearance panel, shape builder and advanced pen tool tricks.",
-      "thumbnail": "https://i.ibb.co/2sN3prp/thumbnail35.jpg",
-      "url": "https://www.youtube.com/embed/0fh5ZbFh9SE"
-    },
-    {
-      "id": "il6",
-      "title": "Illustrator Full Tutorial",
-      "desc": "Complete beginner to advanced workflow for vector design.",
-      "thumbnail": "https://i.ibb.co/p0M5tqd/thumbnail36.jpg",
-      "url": "https://www.youtube.com/embed/7rJ5I1nAGOI"
-    }
-  ],
-
-  "d7": [
-    {
-      "id": "lg1",
-      "title": "Creative Logo Design",
-      "desc": "Learn how to think creatively while designing modern brand logos.",
-      "thumbnail": "https://i.ibb.co/bbRw8xp/thumbnail37.jpg",
-      "url": "https://www.youtube.com/embed/1kPv0QfnkqE"
-    },
-    {
-      "id": "lg2",
-      "title": "Logo Styles Explained",
-      "desc": "Minimal, monogram, abstract, illustrative and geometric logo design.",
-      "thumbnail": "https://i.ibb.co/5F9p2hM/thumbnail38.jpg",
-      "url": "https://www.youtube.com/embed/GCiZQF1ZhdU"
-    },
-    {
-      "id": "lg3",
-      "title": "Logo Grids and Geometry",
-      "desc": "Use geometry, circles, rings, and proportions to build logos.",
-      "thumbnail": "https://i.ibb.co/x2q0xZz/thumbnail39.jpg",
-      "url": "https://www.youtube.com/embed/q8YdQqKjFKg"
-    },
-    {
-      "id": "lg4",
-      "title": "Brand Logo Case Study",
-      "desc": "Deep dive into an actual logo project from sketch to final.",
-      "thumbnail": "https://i.ibb.co/VY3TQft/thumbnail40.jpg",
-      "url": "https://www.youtube.com/embed/qKgZSY8S3yU"
-    },
-    {
-      "id": "lg5",
-      "title": "Professional Logo Tips",
-      "desc": "Make your logos cleaner, more professional and visually balanced.",
-      "thumbnail": "https://i.ibb.co/ZWxsgb3/thumbnail41.jpg",
-      "url": "https://www.youtube.com/embed/0F4bMxDFt9U"
-    },
-    {
-      "id": "lg6",
-      "title": "Logo Design Workflow",
-      "desc": "A full real-world professional logo design workflow explained.",
-      "thumbnail": "https://i.ibb.co/WxrLdxB/thumbnail42.jpg",
-      "url": "https://www.youtube.com/embed/utkohpWfJt8"
-    }
-  ],
-
-  "d8": [
-    {
-      "id": "ct1",
-      "title": "Color Theory Basics",
-      "desc": "Learn color psychology, palettes and harmony for better designs.",
-      "thumbnail": "https://i.ibb.co/bmfn7CG/thumbnail43.jpg",
-      "url": "https://www.youtube.com/embed/Z5j7zvgt9Oc"
-    },
-    {
-      "id": "ct2",
-      "title": "Choosing Color Palettes",
-      "desc": "Practical ways to choose color palettes for modern UI & branding.",
-      "thumbnail": "https://i.ibb.co/Hq7Ts3Y/thumbnail44.jpg",
-      "url": "https://www.youtube.com/embed/9AG6RyDqNgg"
-    },
-    {
-      "id": "ct3",
-      "title": "Contrast & Color Balance",
-      "desc": "Improve readability and visual balance using color theory.",
-      "thumbnail": "https://i.ibb.co/cYV6xwP/thumbnail45.jpg",
-      "url": "https://www.youtube.com/embed/2lJqziChtH0"
-    },
-    {
-      "id": "ct4",
-      "title": "Color Psychology",
-      "desc": "Understand how colors influence human decisions and emotions.",
-      "thumbnail": "https://i.ibb.co/swB8YHp/thumbnail46.jpg",
-      "url": "https://www.youtube.com/embed/hZLGjqB9Hrk"
-    },
-    {
-      "id": "ct5",
-      "title": "Lighting & Colors",
-      "desc": "How light sources affect the perception of colors in design.",
-      "thumbnail": "https://i.ibb.co/FKfV3LT/thumbnail47.jpg",
-      "url": "https://www.youtube.com/embed/B3l3kKJYhBM"
-    },
-    {
-      "id": "ct6",
-      "title": "Color Theory Masterclass",
-      "desc": "A full course on how to use color effectively for design work.",
-      "thumbnail": "https://i.ibb.co/CbxGFJR/thumbnail48.jpg",
-      "url": "https://www.youtube.com/embed/u8q7Y3LRq2g"
-    }
-  ],
-  "dev1": [
-    {
-      "id": "html1",
-      "title": "HTML Full Course for Beginners",
-      "desc": "Learn the fundamental structure of webpages using tags, elements and attributes.",
-      "thumbnail": "https://i.ibb.co/1bPMFfC/thumbnail49.jpg",
+      "id": "v1v1",
+      "title": "HTML Full Crash Course",
+      "desc": "Learn the fundamentals of HTML including structure, tags, forms and best practices for building web pages.",
+      "thumbnail": "https://picsum.photos/300/200?random=101",
       "url": "https://www.youtube.com/embed/pQN-pnXPaVg"
     },
     {
-      "id": "html2",
-      "title": "HTML Forms & Inputs",
-      "desc": "Understand forms, inputs, validation and common structure used in modern websites.",
-      "thumbnail": "https://i.ibb.co/BNqcQ4z/thumbnail50.jpg",
-      "url": "https://www.youtube.com/embed/fNcJU9jG0gE"
-    },
-    {
-      "id": "html3",
-      "title": "Semantic HTML Explained",
-      "desc": "Improve SEO and accessibility using semantic HTML layout tags.",
-      "thumbnail": "https://i.ibb.co/KVhS69c/thumbnail51.jpg",
-      "url": "https://www.youtube.com/embed/kDyJN7qQETA"
-    },
-    {
-      "id": "html4",
-      "title": "HTML Best Practices",
-      "desc": "Learn tips, structure techniques, formatting and proper code organization.",
-      "thumbnail": "https://i.ibb.co/7N85P6Y/thumbnail52.jpg",
-      "url": "https://www.youtube.com/embed/UB1O30fR-EE"
-    },
-    {
-      "id": "html5",
-      "title": "Build a Complete Website",
-      "desc": "Beginner-friendly walk-through for creating your first complete website.",
-      "thumbnail": "https://i.ibb.co/0jN5CKg/thumbnail53.jpg",
-      "url": "https://www.youtube.com/embed/5bMDWQ_6zGw"
-    },
-    {
-      "id": "html6",
-      "title": "HTML Crash Course",
-      "desc": "A quick, powerful crash course for learning HTML efficiently.",
-      "thumbnail": "https://i.ibb.co/7yDKMPJ/thumbnail54.jpg",
-      "url": "https://www.youtube.com/embed/qz0aGYrrlhU"
-    }
-  ],
-
-  "dev2": [
-    {
-      "id": "css1",
-      "title": "CSS Full Course for Beginners",
-      "desc": "Understand selectors, properties, layouts and styling fundamentals.",
-      "thumbnail": "https://i.ibb.co/HqvKT1p/thumbnail55.jpg",
-      "url": "https://www.youtube.com/embed/yfoY53QXEnI"
-    },
-    {
-      "id": "css2",
-      "title": "Flexbox Complete Guide",
-      "desc": "Master CSS Flexbox to create powerful responsive layouts easily.",
-      "thumbnail": "https://i.ibb.co/gShCw3V/thumbnail56.jpg",
+      "id": "v1v2",
+      "title": "CSS Flexbox Deep Dive",
+      "desc": "Master CSS Flexbox with practical examples covering alignment, spacing and layout systems.",
+      "thumbnail": "https://picsum.photos/300/200?random=102",
       "url": "https://www.youtube.com/embed/fYq5PXgSsbE"
     },
     {
-      "id": "css3",
-      "title": "CSS Grid Tutorial",
-      "desc": "Learn CSS Grid step by step for advanced responsive design.",
-      "thumbnail": "https://i.ibb.co/pRKQ1j3/thumbnail57.jpg",
-      "url": "https://www.youtube.com/embed/EFafSYg-PkI"
-    },
-    {
-      "id": "css4",
-      "title": "Animations in CSS",
-      "desc": "Add transitions, keyframes and interactive animations to your UI.",
-      "thumbnail": "https://i.ibb.co/t2XY2st/thumbnail58.jpg",
-      "url": "https://www.youtube.com/embed/zHUpx90NerM"
-    },
-    {
-      "id": "css5",
-      "title": "Responsive Design Techniques",
-      "desc": "Learn media queries, breakpoints and responsive design best practices.",
-      "thumbnail": "https://i.ibb.co/cw68CqF/thumbnail59.jpg",
+      "id": "v1v3",
+      "title": "Responsive Web Design",
+      "desc": "Learn how to build fully responsive websites using CSS media queries and modern layout techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=103",
       "url": "https://www.youtube.com/embed/srvUrASNj0s"
     },
     {
-      "id": "css6",
-      "title": "CSS Full Crash Course",
-      "desc": "A complete crash course designed for beginners learning CSS.",
-      "thumbnail": "https://i.ibb.co/Cv3QjMP/thumbnail60.jpg",
-      "url": "https://www.youtube.com/embed/1Rs2ND1ryYc"
+      "id": "v1v4",
+      "title": "Web Accessibility Basics",
+      "desc": "Improve your website’s accessibility using ARIA labels, semantic tags and proper contrast rules.",
+      "thumbnail": "https://picsum.photos/300/200?random=104",
+      "url": "https://www.youtube.com/embed/5R-6WvAihms"
+    },
+    {
+      "id": "v1v5",
+      "title": "CSS Animation Tutorial",
+      "desc": "Create engaging website animations using CSS transitions, transforms and keyframes.",
+      "thumbnail": "https://picsum.photos/300/200?random=105",
+      "url": "https://www.youtube.com/embed/zHUpx90NerM"
+    },
+    {
+      "id": "v1v6",
+      "title": "Best Practices for Web Layouts",
+      "desc": "Learn layout techniques like grid systems, spacing rules and container structures.",
+      "thumbnail": "https://picsum.photos/300/200?random=106",
+      "url": "https://www.youtube.com/embed/9zBsdzdE4sM"
     }
   ],
 
-  "dev3": [
+  "v2": [
     {
-      "id": "js1",
-      "title": "JavaScript Full Course",
-      "desc": "Master variables, loops, arrays, functions and the DOM in this full course.",
-      "thumbnail": "https://i.ibb.co/fN1NRy1/thumbnail61.jpg",
-      "url": "https://www.youtube.com/embed/8dWL3wF_OMw"
+      "id": "v2v1",
+      "title": "JavaScript Basics for Beginners",
+      "desc": "A complete introduction to variables, functions, loops and essential JS foundations.",
+      "thumbnail": "https://picsum.photos/300/200?random=111",
+      "url": "https://www.youtube.com/embed/W6NZfCO5SIk"
     },
     {
-      "id": "js2",
-      "title": "JavaScript DOM Manipulation",
-      "desc": "Learn how to manipulate HTML & CSS dynamically using JavaScript.",
-      "thumbnail": "https://i.ibb.co/6tMbhzj/thumbnail62.jpg",
+      "id": "v2v2",
+      "title": "DOM Manipulation Tutorial",
+      "desc": "Learn how to dynamically update the DOM using JavaScript events and selectors.",
+      "thumbnail": "https://picsum.photos/300/200?random=112",
       "url": "https://www.youtube.com/embed/0ik6X4DJKCc"
     },
     {
-      "id": "js3",
-      "title": "Async JS & Promises",
-      "desc": "Understand async/await, promises and how JavaScript handles asynchronous code.",
-      "thumbnail": "https://i.ibb.co/jWFnTRZ/thumbnail63.jpg",
-      "url": "https://www.youtube.com/embed/jS4aFq5-91M"
+      "id": "v2v3",
+      "title": "JavaScript Array Methods Explained",
+      "desc": "A full breakdown of map, filter, reduce and other powerful array functions.",
+      "thumbnail": "https://picsum.photos/300/200?random=113",
+      "url": "https://www.youtube.com/embed/R8rmfD9Y5-c"
     },
     {
-      "id": "js4",
+      "id": "v2v4",
+      "title": "Async JavaScript Crash Course",
+      "desc": "Understand promises, async/await and how to handle asynchronous data flows.",
+      "thumbnail": "https://picsum.photos/300/200?random=114",
+      "url": "https://www.youtube.com/embed/PoRJizFvM7s"
+    },
+    {
+      "id": "v2v5",
+      "title": "JS Fetch API Tutorial",
+      "desc": "Learn how to fetch data from APIs using JavaScript Fetch with clean examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=115",
+      "url": "https://www.youtube.com/embed/cuEtnrL9-H0"
+    },
+    {
+      "id": "v2v6",
       "title": "JavaScript ES6 Features",
-      "desc": "Learn modern JS features including spread, let/const, arrow functions and more.",
-      "thumbnail": "https://i.ibb.co/MGtVq0B/thumbnail64.jpg",
+      "desc": "Explore new ES6 features like arrow functions, template literals and destructuring.",
+      "thumbnail": "https://picsum.photos/300/200?random=116",
       "url": "https://www.youtube.com/embed/NCwa_xi0Uuc"
-    },
-    {
-      "id": "js5",
-      "title": "JavaScript Projects for Beginners",
-      "desc": "Build 5 interactive projects using HTML, CSS and JavaScript.",
-      "thumbnail": "https://i.ibb.co/2g11t6d/thumbnail65.jpg",
-      "url": "https://www.youtube.com/embed/Qqx_wzMmFeA"
-    },
-    {
-      "id": "js6",
-      "title": "JS Crash Course",
-      "desc": "Learn JavaScript from scratch in this fast-paced crash course.",
-      "thumbnail": "https://i.ibb.co/jf44gpS/thumbnail66.jpg",
-      "url": "https://www.youtube.com/embed/hKB-YGF14SY"
     }
   ],
 
-  "dev4": [
+  "v3": [
     {
-      "id": "react1",
+      "id": "v3v1",
       "title": "React Full Course",
-      "desc": "Learn components, props, states, hooks and the complete beginner workflow.",
-      "thumbnail": "https://i.ibb.co/9H1qjxV/thumbnail67.jpg",
+      "desc": "Learn everything from components and props to hooks and state management in React.",
+      "thumbnail": "https://picsum.photos/300/200?random=121",
       "url": "https://www.youtube.com/embed/SqcY0GlETPk"
     },
     {
-      "id": "react2",
+      "id": "v3v2",
       "title": "React Hooks Explained",
-      "desc": "Understand useState, useEffect, useRef, useMemo and custom hooks.",
-      "thumbnail": "https://i.ibb.co/Jp7sv8c/thumbnail68.jpg",
-      "url": "https://www.youtube.com/embed/LlvBzyy-558"
+      "desc": "Understand useState, useEffect, useMemo and custom hooks with real examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=122",
+      "url": "https://www.youtube.com/embed/TNhaISOUy6Q"
     },
     {
-      "id": "react3",
+      "id": "v3v3",
       "title": "React Router Tutorial",
-      "desc": "Learn SPA routing using React Router and protected route system.",
-      "thumbnail": "https://i.ibb.co/KbTcZtJ/thumbnail69.jpg",
+      "desc": "Learn how to set up routing, dynamic routes and navigation in React.",
+      "thumbnail": "https://picsum.photos/300/200?random=123",
       "url": "https://www.youtube.com/embed/Ul3y1LXxzdU"
     },
     {
-      "id": "react4",
-      "title": "React API Fetching",
-      "desc": "Fetch and display remote JSON data using axios and native fetch API.",
-      "thumbnail": "https://i.ibb.co/mcmmnF6/thumbnail70.jpg",
-      "url": "https://www.youtube.com/embed/tlTdbc5byAs"
+      "id": "v3v4",
+      "title": "React State Management",
+      "desc": "Learn advanced state management patterns and avoid prop drilling.",
+      "thumbnail": "https://picsum.photos/300/200?random=124",
+      "url": "https://www.youtube.com/embed/35lXWvCuM8o"
     },
     {
-      "id": "react5",
-      "title": "React Project Tutorial",
-      "desc": "Build a complete responsive project in React step by step.",
-      "thumbnail": "https://i.ibb.co/Jxs5V8f/thumbnail71.jpg",
-      "url": "https://www.youtube.com/embed/b9eMGE7QtTk"
+      "id": "v3v5",
+      "title": "React Performance Optimization",
+      "desc": "Speed up your React app using memoization and rendering optimizations.",
+      "thumbnail": "https://picsum.photos/300/200?random=125",
+      "url": "https://www.youtube.com/embed/c–STJ–uV"
     },
     {
-      "id": "react6",
-      "title": "React Beginner Crash",
-      "desc": "A beginner-friendly crash course to start building with React quickly.",
-      "thumbnail": "https://i.ibb.co/B3Xhf78/thumbnail72.jpg",
-      "url": "https://www.youtube.com/embed/Ke90Tje7VS0"
+      "id": "v3v6",
+      "title": "Building a React Project",
+      "desc": "Learn how to build a complete React application from scratch.",
+      "thumbnail": "https://picsum.photos/300/200?random=126",
+      "url": "https://www.youtube.com/embed/bMknfKXIFA8"
     }
   ],
 
-  "dev5": [
+  "v4": [
     {
-      "id": "next1",
-      "title": "Next.js Full Course",
-      "desc": "Master file-based routing, SSR, SSG, API routes and Next.js basics.",
-      "thumbnail": "https://i.ibb.co/2KSx73M/thumbnail73.jpg",
-      "url": "https://www.youtube.com/embed/Sklc_fQBmcs"
-    },
-    {
-      "id": "next2",
-      "title": "Next.js App Router Guide",
-      "desc": "Learn how to use Next.js 13+ App Router with layouts and nested routes.",
-      "thumbnail": "https://i.ibb.co/sQym8sG/thumbnail74.jpg",
-      "url": "https://www.youtube.com/embed/Hiabp1GY8fA"
-    },
-    {
-      "id": "next3",
-      "title": "Fetch API in Next.js",
-      "desc": "Learn client & server-side fetching inside Next.js App Router.",
-      "thumbnail": "https://i.ibb.co/QFfHsS1/thumbnail75.jpg",
-      "url": "https://www.youtube.com/embed/Y6KDk5iyrYE"
-    },
-    {
-      "id": "next4",
-      "title": "Next.js Authentication",
-      "desc": "Learn how to add login, register and secure routes using NextAuth.",
-      "thumbnail": "https://i.ibb.co/n3dPmhf/thumbnail76.jpg",
-      "url": "https://www.youtube.com/embed/1MTyCvS05V4"
-    },
-    {
-      "id": "next5",
-      "title": "Build a Next.js Project",
-      "desc": "Full step-by-step Next.js project tutorial using modern concepts.",
-      "thumbnail": "https://i.ibb.co/Y2xrTC7/thumbnail77.jpg",
-      "url": "https://www.youtube.com/embed/WM_i2ZjM8vY"
-    },
-    {
-      "id": "next6",
-      "title": "Next.js Crash Course",
-      "desc": "Learn Next.js 13+ App Router in a complete crash course.",
-      "thumbnail": "https://i.ibb.co/x7Vm57S/thumbnail78.jpg",
-      "url": "https://www.youtube.com/embed/vCOSTG10Y4o"
-    }
-  ],
-
-  "dev6": [
-    {
-      "id": "node1",
-      "title": "Node.js Full Course",
-      "desc": "Master Node.js, event loop, streams, buffers, and the basics of backend.",
-      "thumbnail": "https://i.ibb.co/sjsYGg0/thumbnail79.jpg",
-      "url": "https://www.youtube.com/embed/TlB_eWDSMt4"
-    },
-    {
-      "id": "node2",
-      "title": "Express.js Crash Course",
-      "desc": "Learn routing, middleware, controllers and API building using Express.",
-      "thumbnail": "https://i.ibb.co/NYfnngB/thumbnail80.jpg",
-      "url": "https://www.youtube.com/embed/SccSCuHhOw0"
-    },
-    {
-      "id": "node3",
-      "title": "REST API with Node.js",
-      "desc": "Step-by-step REST API building with CRUD operations and DB connection.",
-      "thumbnail": "https://i.ibb.co/3WkjJ4y/thumbnail81.jpg",
-      "url": "https://www.youtube.com/embed/pKd0Rpw7O48"
-    },
-    {
-      "id": "node4",
-      "title": "Authentication in Node.js",
-      "desc": "Learn JWT authentication, hashing and secure login workflow.",
-      "thumbnail": "https://i.ibb.co/17V4mdj/thumbnail82.jpg",
-      "url": "https://www.youtube.com/embed/9hE7jSmu7i0"
-    },
-    {
-      "id": "node5",
-      "title": "Node.js Project",
-      "desc": "Build a complete backend project using Node.js and Express.",
-      "thumbnail": "https://i.ibb.co/nQCF9zy/thumbnail83.jpg",
-      "url": "https://www.youtube.com/embed/f2EQX_Wi3NI"
-    },
-    {
-      "id": "node6",
+      "id": "v4v1",
       "title": "Node.js Crash Course",
-      "desc": "Learn the basics of Node.js and server-side JavaScript programming.",
-      "thumbnail": "https://i.ibb.co/KwGqMhX/thumbnail84.jpg",
-      "url": "https://www.youtube.com/embed/ENrzD9HAZK4"
+      "desc": "Learn the fundamentals of Node.js including modules, servers and routing.",
+      "thumbnail": "https://picsum.photos/300/200?random=131",
+      "url": "https://www.youtube.com/embed/fBNz5xF-Kx4"
+    },
+    {
+      "id": "v4v2",
+      "title": "Express.js API Tutorial",
+      "desc": "Build your first REST API using Express, middleware and routing.",
+      "thumbnail": "https://picsum.photos/300/200?random=132",
+      "url": "https://www.youtube.com/embed/L72fhGm1tfE"
+    },
+    {
+      "id": "v4v3",
+      "title": "MongoDB Beginner Guide",
+      "desc": "Learn how to perform CRUD operations using MongoDB and Mongoose.",
+      "thumbnail": "https://picsum.photos/300/200?random=133",
+      "url": "https://www.youtube.com/embed/OF2uE4YcCak"
+    },
+    {
+      "id": "v4v4",
+      "title": "JWT Authentication Explained",
+      "desc": "Understand authentication using JSON Web Tokens and secure your API.",
+      "thumbnail": "https://picsum.photos/300/200?random=134",
+      "url": "https://www.youtube.com/embed/2jqok-WgelI"
+    },
+    {
+      "id": "v4v5",
+      "title": "Uploading Files in Node.js",
+      "desc": "Learn how to upload files using Multer and handle storage efficiently.",
+      "thumbnail": "https://picsum.photos/300/200?random=135",
+      "url": "https://www.youtube.com/embed/9Qzmri1WaaE"
+    },
+    {
+      "id": "v4v6",
+      "title": "Building a Node.js Project",
+      "desc": "A step-by-step guide to building a real-world backend service.",
+      "thumbnail": "https://picsum.photos/300/200?random=136",
+      "url": "https://www.youtube.com/embed/Oe421EPjeBE"
     }
   ],
 
-  "dev7": [
+  "a1": [
     {
-      "id": "db1",
-      "title": "SQL Database Full Course",
-      "desc": "Master SQL, queries, joins, indexing and relational database concepts.",
-      "thumbnail": "https://i.ibb.co/r6SX9hp/thumbnail85.jpg",
-      "url": "https://www.youtube.com/embed/HXV3zeQKqGY"
+      "id": "a1v1",
+      "title": "Introduction to Multivariable Calculus",
+      "desc": "Understand the basics of multivariable functions, limits, and continuity with clear explanations.",
+      "thumbnail": "https://picsum.photos/300/200?random=201",
+      "url": "https://www.youtube.com/embed/TrcCbdWwCBc"
     },
     {
-      "id": "db2",
-      "title": "MySQL Tutorial",
-      "desc": "Learn how to create tables, write queries and manage relational data.",
-      "thumbnail": "https://i.ibb.co/zV6vjbB/thumbnail86.jpg",
-      "url": "https://www.youtube.com/embed/7S_tz1z_5bA"
+      "id": "a1v2",
+      "title": "3D Graphing Explained",
+      "desc": "Learn how to visualize functions of multiple variables using 3D graphing techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=202",
+      "url": "https://www.youtube.com/embed/EbMMiVRk940"
     },
     {
-      "id": "db3",
-      "title": "MongoDB Tutorial",
-      "desc": "Understand NoSQL, collections, documents and MongoDB CRUD operations.",
-      "thumbnail": "https://i.ibb.co/QHWcQz9/thumbnail87.jpg",
-      "url": "https://www.youtube.com/embed/QaM_2GimlI0"
+      "id": "a1v3",
+      "title": "Partial Derivatives Basics",
+      "desc": "Understand how partial derivatives work and how to calculate them step-by-step.",
+      "thumbnail": "https://picsum.photos/300/200?random=203",
+      "url": "https://www.youtube.com/embed/qeJj46KmfCQ"
     },
     {
-      "id": "db4",
-      "title": "Database Design Basics",
-      "desc": "Learn normalization, schema design and structuring your database.",
-      "thumbnail": "https://i.ibb.co/Rbxg8c3/thumbnail88.jpg",
-      "url": "https://www.youtube.com/embed/ztHopE5Wnpc"
+      "id": "a1v4",
+      "title": "Double Integrals Tutorial",
+      "desc": "Learn how double integrals work with geometric interpretations and examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=204",
+      "url": "https://www.youtube.com/embed/0Kx8iPqkX6Y"
     },
     {
-      "id": "db5",
-      "title": "ORM Explained",
-      "desc": "Learn how ORMs allow easy DB operations inside Node, Python and PHP.",
-      "thumbnail": "https://i.ibb.co/BPb5c3g/thumbnail89.jpg",
-      "url": "https://www.youtube.com/embed/SWyqp7iY_Tc"
+      "id": "a1v5",
+      "title": "Vector Fields & Gradient",
+      "desc": "Understand vector fields, gradient vectors and directional derivative concepts.",
+      "thumbnail": "https://picsum.photos/300/200?random=205",
+      "url": "https://www.youtube.com/embed/z6cZ9G9xZVg"
     },
     {
-      "id": "db6",
-      "title": "SQL Crash Course",
-      "desc": "A simple and powerful beginner guide for SQL and relational data.",
-      "thumbnail": "https://i.ibb.co/7Q3GbYB/thumbnail90.jpg",
-      "url": "https://www.youtube.com/embed/27axpTjLNps"
+      "id": "a1v6",
+      "title": "Divergence & Curl Explained",
+      "desc": "A beginner-friendly guide to divergence, curl and physical applications.",
+      "thumbnail": "https://picsum.photos/300/200?random=206",
+      "url": "https://www.youtube.com/embed/7I3tQ3gN4xM"
     }
   ],
 
-  "dev8": [
+  "a2": [
     {
-      "id": "git1",
-      "title": "Git & GitHub For Beginners",
-      "desc": "Learn version control, commits, branches and GitHub usage simplified.",
-      "thumbnail": "https://i.ibb.co/8rBJ2CM/thumbnail91.jpg",
-      "url": "https://www.youtube.com/embed/RGOj5yH7evk"
+      "id": "a2v1",
+      "title": "Introduction to Organic Chemistry",
+      "desc": "Learn the foundations of carbon-based compounds and molecular structure.",
+      "thumbnail": "https://picsum.photos/300/200?random=211",
+      "url": "https://www.youtube.com/embed/2Op3QLzMgSY"
     },
     {
-      "id": "git2",
-      "title": "Git Branching Explained",
-      "desc": "Understand branching, merging, conflicts and team workflow.",
-      "thumbnail": "https://i.ibb.co/9G4W3n0/thumbnail92.jpg",
-      "url": "https://www.youtube.com/embed/FyAAIHHClqI"
+      "id": "a2v2",
+      "title": "Functional Groups Overview",
+      "desc": "Understand hydrocarbons, alcohols, ketones, aldehydes, and their reactions.",
+      "thumbnail": "https://picsum.photos/300/200?random=212",
+      "url": "https://www.youtube.com/embed/09–qLzVCoI"
     },
     {
-      "id": "git3",
-      "title": "GitHub Workflow",
-      "desc": "Learn pull requests, forks, collaboration and proper GitHub practices.",
-      "thumbnail": "https://i.ibb.co/HTgS0sK/thumbnail93.jpg",
-      "url": "https://www.youtube.com/embed/0fKg7e37bQE"
+      "id": "a2v3",
+      "title": "Isomers in Organic Chemistry",
+      "desc": "Learn structural, geometric and optical isomers with examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=213",
+      "url": "https://www.youtube.com/embed/0R8M1Y–9yN"
     },
     {
-      "id": "git4",
-      "title": "Git Advanced",
-      "desc": "Rebasing, cherry-pick, stash and advanced version control features.",
-      "thumbnail": "https://i.ibb.co/c60K39M/thumbnail94.jpg",
-      "url": "https://www.youtube.com/embed/qsTthZi23VE"
+      "id": "a2v4",
+      "title": "Nucleophiles & Electrophiles",
+      "desc": "Understanding key concepts of reaction mechanisms in organic chemistry.",
+      "thumbnail": "https://picsum.photos/300/200?random=214",
+      "url": "https://www.youtube.com/embed/Xp0–W07XHhE"
     },
     {
-      "id": "git5",
-      "title": "GitHub Project Setup",
-      "desc": "Create repositories, push code, and manage project files.",
-      "thumbnail": "https://i.ibb.co/2WJ4Dz1/thumbnail95.jpg",
-      "url": "https://www.youtube.com/embed/w3jLJU7DT5E"
+      "id": "a2v5",
+      "title": "Reaction Mechanisms",
+      "desc": "A beginner guide to SN1, SN2, E1 and E2 reactions.",
+      "thumbnail": "https://picsum.photos/300/200?random=215",
+      "url": "https://www.youtube.com/embed/Mk–R4mKF2M"
     },
     {
-      "id": "git6",
-      "title": "Git Crash Course",
-      "desc": "A powerful crash course to learn Git within an hour.",
-      "thumbnail": "https://i.ibb.co/J7HZ97c/thumbnail96.jpg",
-      "url": "https://www.youtube.com/embed/USjZcfj8yxE"
-    }
-  ],
-    "ac1": [
-    {
-      "id": "math1",
-      "title": "Basic Algebra Course",
-      "desc": "Learn variables, equations, factoring and core algebraic concepts easily.",
-      "thumbnail": "https://i.ibb.co/5sLkMvF/thumbnail97.jpg",
-      "url": "https://www.youtube.com/embed/Q6Z8p1S–e0"
-    },
-    {
-      "id": "math2",
-      "title": "Geometry Basics",
-      "desc": "Understand shapes, angles, theorems and geometric reasoning.",
-      "thumbnail": "https://i.ibb.co/ZXZSfT2/thumbnail98.jpg",
-      "url": "https://www.youtube.com/embed/f2I81_BFbX4"
-    },
-    {
-      "id": "math3",
-      "title": "Trigonometry Explained",
-      "desc": "Learn sine, cosine, tangent and real world applications of trigonometry.",
-      "thumbnail": "https://i.ibb.co/8XJn3xP/thumbnail99.jpg",
-      "url": "https://www.youtube.com/embed/wA2x-U7C7ZQ"
-    },
-    {
-      "id": "math4",
-      "title": "Calculus Beginner Guide",
-      "desc": "An introduction to limits, derivatives, integrals and core calculus rules.",
-      "thumbnail": "https://i.ibb.co/55Sq5Vf/thumbnail100.jpg",
-      "url": "https://www.youtube.com/embed/WUvTyaaNkzM"
-    },
-    {
-      "id": "math5",
-      "title": "Statistics Basics",
-      "desc": "Learn data distribution, probability, mean, median and standard deviation.",
-      "thumbnail": "https://i.ibb.co/tcgJR8W/thumbnail101.jpg",
-      "url": "https://www.youtube.com/embed/xxpc-HPKN28"
-    },
-    {
-      "id": "math6",
-      "title": "Algebra Crash Course",
-      "desc": "A fast and simple introduction to basic algebra concepts.",
-      "thumbnail": "https://i.ibb.co/MVcXZrP/thumbnail102.jpg",
-      "url": "https://www.youtube.com/embed/mI9becIY8iA"
+      "id": "a2v6",
+      "title": "Organic Chemistry Lab Basics",
+      "desc": "Learn lab safety, glassware usage and fundamental experiments.",
+      "thumbnail": "https://picsum.photos/300/200?random=216",
+      "url": "https://www.youtube.com/embed/PmWl8FgxqNw"
     }
   ],
 
-  "ac2": [
+  "a3": [
     {
-      "id": "phy1",
-      "title": "Physics Full Course",
-      "desc": "Learn motion, forces, energy, waves and physics foundations.",
-      "thumbnail": "https://i.ibb.co/fQWNpGt/thumbnail103.jpg",
-      "url": "https://www.youtube.com/embed/9vKqVkMQHKk"
+      "id": "a3v1",
+      "title": "Introduction to Classical Literature",
+      "desc": "Explore the foundations of classical literature including ancient Greek and Roman texts.",
+      "thumbnail": "https://picsum.photos/300/200?random=221",
+      "url": "https://www.youtube.com/embed/L1K6p5M1–lA"
     },
     {
-      "id": "phy2",
-      "title": "Newton’s Laws Explained",
-      "desc": "Understand all 3 of Newton’s laws with simple real life examples.",
-      "thumbnail": "https://i.ibb.co/172TXrP/thumbnail104.jpg",
-      "url": "https://www.youtube.com/embed/KkM71JPhKxQ"
+      "id": "a3v2",
+      "title": "Greek Mythology Explained",
+      "desc": "A deep dive into Greek gods, heroes and major mythological events.",
+      "thumbnail": "https://picsum.photos/300/200?random=222",
+      "url": "https://www.youtube.com/embed/8y–bwPx–wM"
     },
     {
-      "id": "phy3",
-      "title": "Electricity Basics",
-      "desc": "Current, voltage, resistance and electric circuits explained easily.",
-      "thumbnail": "https://i.ibb.co/vHFdv8T/thumbnail105.jpg",
-      "url": "https://www.youtube.com/embed/Dk1kgNmyN4E"
+      "id": "a3v3",
+      "title": "Roman Civilization Overview",
+      "desc": "Learn about the rise of Rome and its influence on language and culture.",
+      "thumbnail": "https://picsum.photos/300/200?random=223",
+      "url": "https://www.youtube.com/embed/c4M4s–i7_4w"
     },
     {
-      "id": "phy4",
-      "title": "Waves & Sound",
-      "desc": "Learn how waves travel and how sound works using physics principles.",
-      "thumbnail": "https://i.ibb.co/3M0bZn7/thumbnail106.jpg",
-      "url": "https://www.youtube.com/embed/—KtNrx8HkA"
+      "id": "a3v4",
+      "title": "Epic Poetry Explained",
+      "desc": "Understand epic structure with examples from Homer and Virgil.",
+      "thumbnail": "https://picsum.photos/300/200?random=224",
+      "url": "https://www.youtube.com/embed/_FkpLZ–8Aw"
     },
     {
-      "id": "phy5",
-      "title": "Light & Optics",
-      "desc": "Reflection, refraction and optical instruments explained.",
-      "thumbnail": "https://i.ibb.co/tLt0L6X/thumbnail107.jpg",
-      "url": "https://www.youtube.com/embed/1aCNnWvOF3I"
+      "id": "a3v5",
+      "title": "Drama & Tragedy",
+      "desc": "Explore classical tragedy structure and famous playwrights.",
+      "thumbnail": "https://picsum.photos/300/200?random=225",
+      "url": "https://www.youtube.com/embed/UtQImG–8XGY"
     },
     {
-      "id": "phy6",
-      "title": "Physics Crash Course",
-      "desc": "A fast overview of the most important physics topics.",
-      "thumbnail": "https://i.ibb.co/Wnxhzj9/thumbnail108.jpg",
-      "url": "https://www.youtube.com/embed/LV9h–—Jsbg"
+      "id": "a3v6",
+      "title": "Rhetoric & Philosophy",
+      "desc": "Learn how ancient rhetoric shaped modern communication.",
+      "thumbnail": "https://picsum.photos/300/200?random=226",
+      "url": "https://www.youtube.com/embed/vB6kZ–K–fH0"
     }
   ],
 
-  "ac3": [
+  "a4": [
     {
-      "id": "chem1",
-      "title": "Chemistry Full Course",
-      "desc": "Learn atoms, molecules, bonding and basic chemistry essentials.",
-      "thumbnail": "https://i.ibb.co/Y3FCzqy/thumbnail109.jpg",
-      "url": "https://www.youtube.com/embed/fs–rVjrUJc"
+      "id": "a4v1",
+      "title": "European History: French Revolution",
+      "desc": "Understand the major causes, events and reforms of the French Revolution.",
+      "thumbnail": "https://picsum.photos/300/200?random=231",
+      "url": "https://www.youtube.com/embed/5–e–dXZ9JxI"
     },
     {
-      "id": "chem2",
-      "title": "Periodic Table Explained",
-      "desc": "Understand groups, periods, metals, non-metals and element trends.",
-      "thumbnail": "https://i.ibb.co/LtFr2S3/thumbnail110.jpg",
-      "url": "https://www.youtube.com/embed/fPnwBITSmgU"
+      "id": "a4v2",
+      "title": "Rise of Napoleon Bonaparte",
+      "desc": "Learn how Napoleon rose to power and changed Europe.",
+      "thumbnail": "https://picsum.photos/300/200?random=232",
+      "url": "https://www.youtube.com/embed/yg–4d–xeqM4"
     },
     {
-      "id": "chem3",
-      "title": "Chemical Bonding",
-      "desc": "Ionic, covalent and metallic bonding explained with examples.",
-      "thumbnail": "https://i.ibb.co/8zGdjhY/thumbnail111.jpg",
-      "url": "https://www.youtube.com/embed/1BlzwT7zVVA"
+      "id": "a4v3",
+      "title": "Industrial Revolution Overview",
+      "desc": "A complete beginner guide to industrialization and its effects.",
+      "thumbnail": "https://picsum.photos/300/200?random=233",
+      "url": "https://www.youtube.com/embed/z–FxEo–FbjI"
     },
     {
-      "id": "chem4",
-      "title": "Acids & Bases",
-      "desc": "Learn pH scale, neutralization and basic acid-base reactions.",
-      "thumbnail": "https://i.ibb.co/1zwsxg5/thumbnail112.jpg",
-      "url": "https://www.youtube.com/embed/ov–pQq1HGw"
+      "id": "a4v4",
+      "title": "World War I Explained",
+      "desc": "Learn the causes and consequences of the First World War.",
+      "thumbnail": "https://picsum.photos/300/200?random=234",
+      "url": "https://www.youtube.com/embed/TM–HgMH–Zjw"
     },
     {
-      "id": "chem5",
-      "title": "Organic Chemistry Basics",
-      "desc": "Hydrocarbons, functional groups and organic reaction basics.",
-      "thumbnail": "https://i.ibb.co/9vCdcXf/thumbnail113.jpg",
-      "url": "https://www.youtube.com/embed/otUFvg9eGx8"
+      "id": "a4v5",
+      "title": "World War II Summary",
+      "desc": "A complete overview of World War II and major global changes.",
+      "thumbnail": "https://picsum.photos/300/200?random=235",
+      "url": "https://www.youtube.com/embed/H–n–1B4–28k"
     },
     {
-      "id": "chem6",
-      "title": "Chemistry Crash Course",
-      "desc": "A quick overview of fundamental chemistry concepts.",
-      "thumbnail": "https://i.ibb.co/5nT7XnS/thumbnail114.jpg",
-      "url": "https://www.youtube.com/embed/FSyAehMdpyI"
+      "id": "a4v6",
+      "title": "Cold War Explained",
+      "desc": "Understand global politics shaped by the US–USSR rivalry.",
+      "thumbnail": "https://picsum.photos/300/200?random=236",
+      "url": "https://www.youtube.com/embed/wV–t4–n–rrE"
+    }
+  ],
+  "a5": [
+    {
+      "id": "a5v1",
+      "title": "Introduction to Linear Algebra",
+      "desc": "Learn the basics of matrices, vectors and linear transformations with clear examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=241",
+      "url": "https://www.youtube.com/embed/kjBOesZCoqc"
+    },
+    {
+      "id": "a5v2",
+      "title": "Matrix Operations Explained",
+      "desc": "Understand matrix addition, subtraction, multiplication and their applications.",
+      "thumbnail": "https://picsum.photos/300/200?random=242",
+      "url": "https://www.youtube.com/embed/0oGJTQCy4cQ"
+    },
+    {
+      "id": "a5v3",
+      "title": "Determinants & Inverses",
+      "desc": "Learn how determinants work and how to calculate inverse matrices step-by-step.",
+      "thumbnail": "https://picsum.photos/300/200?random=243",
+      "url": "https://www.youtube.com/embed/u–k–R–d–xcX4"
+    },
+    {
+      "id": "a5v4",
+      "title": "Eigenvalues & Eigenvectors",
+      "desc": "Understand the meaning of eigenvalues and eigenvectors with geometric interpretation.",
+      "thumbnail": "https://picsum.photos/300/200?random=244",
+      "url": "https://www.youtube.com/embed/PFDu9oVAE–w"
+    },
+    {
+      "id": "a5v5",
+      "title": "Systems of Linear Equations",
+      "desc": "Solve systems using row reduction, Gaussian elimination and matrix methods.",
+      "thumbnail": "https://picsum.photos/300/200?random=245",
+      "url": "https://www.youtube.com/embed/FY–PP–d8–uCE"
+    },
+    {
+      "id": "a5v6",
+      "title": "Vector Spaces Fundamentals",
+      "desc": "A complete intro to vector spaces, basis, dimension and subspaces.",
+      "thumbnail": "https://picsum.photos/300/200?random=246",
+      "url": "https://www.youtube.com/embed/ts–4–sq–I–qE"
     }
   ],
 
-  "ac4": [
+  "a6": [
     {
-      "id": "bio1",
-      "title": "Biology Full Course",
-      "desc": "Understand life processes, cells, DNA and biology basics.",
-      "thumbnail": "https://i.ibb.co/dMmGV5m/thumbnail115.jpg",
-      "url": "https://www.youtube.com/embed/uBGl2BujkPQ"
+      "id": "a6v1",
+      "title": "Introduction to Electromagnetism",
+      "desc": "Learn electric forces, magnetic fields, and charge interactions with real examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=251",
+      "url": "https://www.youtube.com/embed/2–w–17–WNQnY"
     },
     {
-      "id": "bio2",
-      "title": "Cell Structure Explained",
-      "desc": "Learn cell organelles, membrane functions and cell processes.",
-      "thumbnail": "https://i.ibb.co/j8rN7Vk/thumbnail116.jpg",
-      "url": "https://www.youtube.com/embed/URUJD5NEXC8"
+      "id": "a6v2",
+      "title": "Electric Fields & Gauss’ Law",
+      "desc": "Understand how electric fields behave and apply Gauss’ law in simple problems.",
+      "thumbnail": "https://picsum.photos/300/200?random=252",
+      "url": "https://www.youtube.com/embed/o–Qz–sC–Whw"
     },
     {
-      "id": "bio3",
-      "title": "Human Digestive System",
-      "desc": "Understand how food is digested and nutrients are absorbed.",
-      "thumbnail": "https://i.ibb.co/2hZP4hR/thumbnail117.jpg",
-      "url": "https://www.youtube.com/embed/pqgc–5mZQ"
+      "id": "a6v3",
+      "title": "Magnetic Fields Explained",
+      "desc": "Learn magnetic force, current interactions and real-life applications.",
+      "thumbnail": "https://picsum.photos/300/200?random=253",
+      "url": "https://www.youtube.com/embed/k–x–od–HB0–xw"
     },
     {
-      "id": "bio4",
-      "title": "Respiratory System",
-      "desc": "Learn how lungs process air and supply oxygen to the body.",
-      "thumbnail": "https://i.ibb.co/c1yW9m0/thumbnail118.jpg",
-      "url": "https://www.youtube.com/embed/7XAt–dUSHh0"
+      "id": "a6v4",
+      "title": "Faraday’s Law & Induction",
+      "desc": "Understand how induction works and why it's used in generators and transformers.",
+      "thumbnail": "https://picsum.photos/300/200?random=254",
+      "url": "https://www.youtube.com/embed/Z–tn–o–GZ–Sw"
     },
     {
-      "id": "bio5",
-      "title": "Genetics Basics",
-      "desc": "Understand DNA, genes, hereditary traits and mutations.",
-      "thumbnail": "https://i.ibb.co/12zw9jk/thumbnail119.jpg",
-      "url": "https://www.youtube.com/embed/8m6hHRlKwxY"
+      "id": "a6v5",
+      "title": "Maxwell’s Equations Overview",
+      "desc": "Simplified explanation of Maxwell’s four laws that unify electricity and magnetism.",
+      "thumbnail": "https://picsum.photos/300/200?random=255",
+      "url": "https://www.youtube.com/embed/rt–M–KbY–nb0"
     },
     {
-      "id": "bio6",
-      "title": "Biology Crash Course",
-      "desc": "A simple crash course on biology fundamentals.",
-      "thumbnail": "https://i.ibb.co/72C0XwM/thumbnail120.jpg",
-      "url": "https://www.youtube.com/embed/—UCnYrA3"
+      "id": "a6v6",
+      "title": "Electromagnetic Waves",
+      "desc": "Learn EM wave formation and propagation with step-by-step visuals.",
+      "thumbnail": "https://picsum.photos/300/200?random=256",
+      "url": "https://www.youtube.com/embed/Muv–C–tz6Q8"
     }
   ],
 
-  "ac5": [
+  "a7": [
     {
-      "id": "eco1",
-      "title": "Economics Full Course",
-      "desc": "Learn demand, supply, inflation, GDP and basic economic concepts.",
-      "thumbnail": "https://i.ibb.co/dgMf9NQ/thumbnail121.jpg",
-      "url": "https://www.youtube.com/embed/3EZ0bgi–Gk"
+      "id": "a7v1",
+      "title": "Introduction to Philosophy",
+      "desc": "Explore the origins of philosophical thinking and major philosophical questions.",
+      "thumbnail": "https://picsum.photos/300/200?random=261",
+      "url": "https://www.youtube.com/embed/1–p–HM–5vN–Z"
     },
     {
-      "id": "eco2",
-      "title": "Microeconomics Basics",
-      "desc": "Understand consumer behavior, markets and price mechanisms.",
-      "thumbnail": "https://i.ibb.co/Sd0cKGP/thumbnail122.jpg",
-      "url": "https://www.youtube.com/embed/Ae–WuCjfH"
+      "id": "a7v2",
+      "title": "Ethics & Moral Philosophy",
+      "desc": "Learn how philosophers analyze right and wrong with real-life examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=262",
+      "url": "https://www.youtube.com/embed/9–u–cqo–pXIs"
     },
     {
-      "id": "eco3",
-      "title": "Macroeconomics Basics",
-      "desc": "GDP, unemployment, economic growth and national economy overview.",
-      "thumbnail": "https://i.ibb.co/TPDN4gp/thumbnail123.jpg",
-      "url": "https://www.youtube.com/embed/—O8DShao9"
+      "id": "a7v3",
+      "title": "Metaphysics Basics",
+      "desc": "Understand metaphysical ideas about existence, reality and identity.",
+      "thumbnail": "https://picsum.photos/300/200?random=263",
+      "url": "https://www.youtube.com/embed/_–E–f–z–nbsp"
     },
     {
-      "id": "eco4",
-      "title": "Money & Banking",
-      "desc": "Understand banks, interest, money creation and financial systems.",
-      "thumbnail": "https://i.ibb.co/9sf13HP/thumbnail124.jpg",
-      "url": "https://www.youtube.com/embed/DG4Jtb–6A"
+      "id": "a7v4",
+      "title": "Logic & Critical Thinking",
+      "desc": "Learn reasoning, argument structure and logical fallacies.",
+      "thumbnail": "https://picsum.photos/300/200?random=264",
+      "url": "https://www.youtube.com/embed/D–W–KK–G–qi0"
     },
     {
-      "id": "eco5",
-      "title": "Market Structures",
-      "desc": "Learn monopoly, oligopoly, perfect competition and real markets.",
-      "thumbnail": "https://i.ibb.co/mzkJCLN/thumbnail125.jpg",
-      "url": "https://www.youtube.com/embed/3x–SPEwK"
+      "id": "a7v5",
+      "title": "Political Philosophy",
+      "desc": "Understand justice, rights, authority and modern political thought.",
+      "thumbnail": "https://picsum.photos/300/200?random=265",
+      "url": "https://www.youtube.com/embed/f–K–p–m–b–3–4"
     },
     {
-      "id": "eco6",
-      "title": "Economics Crash Course",
-      "desc": "A quick overview of economic concepts for beginners.",
-      "thumbnail": "https://i.ibb.co/TYv8yVK/thumbnail126.jpg",
-      "url": "https://www.youtube.com/embed/3EFo–SeVRE"
+      "id": "a7v6",
+      "title": "Philosophy of Mind",
+      "desc": "Explore consciousness, identity and the mind–body problem.",
+      "thumbnail": "https://picsum.photos/300/200?random=266",
+      "url": "https://www.youtube.com/embed/Z–l–TJ–Q–wE"
     }
   ],
 
-  "ac6": [
+  "a8": [
     {
-      "id": "bus1",
-      "title": "Business Studies Basics",
-      "desc": "Learn organization types, management and business operations.",
-      "thumbnail": "https://i.ibb.co/zHtQ38D/thumbnail127.jpg",
-      "url": "https://www.youtube.com/embed/f–u6FZjox–c"
+      "id": "a8v1",
+      "title": "Introduction to Modern Literature",
+      "desc": "Learn the characteristics and development of modern literature with examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=271",
+      "url": "https://www.youtube.com/embed/F–y–G–m–J–o–M"
     },
     {
-      "id": "bus2",
-      "title": "Marketing Fundamentals",
-      "desc": "Understand branding, product, pricing, promotion and marketing mix.",
-      "thumbnail": "https://i.ibb.co/7QyjHTT/thumbnail128.jpg",
-      "url": "https://www.youtube.com/embed/S–jlN01qm0s"
+      "id": "a8v2",
+      "title": "Poetry Analysis Techniques",
+      "desc": "Understand rhyme, rhythm, imagery and poetic structure in simple steps.",
+      "thumbnail": "https://picsum.photos/300/200?random=272",
+      "url": "https://www.youtube.com/embed/R–s–r–Y–o–W–I"
     },
     {
-      "id": "bus3",
-      "title": "Financial Accounting",
-      "desc": "Learn assets, liabilities, balance sheets and basic accounting.",
-      "thumbnail": "https://i.ibb.co/9hfgJ5c/thumbnail129.jpg",
-      "url": "https://www.youtube.com/embed/H–TkLx–y"
+      "id": "a8v3",
+      "title": "Modern Novel Structure",
+      "desc": "Learn how modern writers shape themes, narrative and character arcs.",
+      "thumbnail": "https://picsum.photos/300/200?random=273",
+      "url": "https://www.youtube.com/embed/FR–z–b–r–d–w"
     },
     {
-      "id": "bus4",
-      "title": "Entrepreneurship Basics",
-      "desc": "Identify opportunities, build business plans and startup ideas.",
-      "thumbnail": "https://i.ibb.co/52zW30t/thumbnail130.jpg",
-      "url": "https://www.youtube.com/embed/5–B3r0–x"
+      "id": "a8v4",
+      "title": "Symbolism in Literature",
+      "desc": "A complete guide to symbolism, motifs and deeper meaning in texts.",
+      "thumbnail": "https://picsum.photos/300/200?random=274",
+      "url": "https://www.youtube.com/embed/Y–v–tX–w–tQ–o"
     },
     {
-      "id": "bus5",
-      "title": "Management Principles",
-      "desc": "Planning, organizing, leading and controlling in business.",
-      "thumbnail": "https://i.ibb.co/qFnWpjk/thumbnail131.jpg",
-      "url": "https://www.youtube.com/embed/—fp—iXX"
+      "id": "a8v5",
+      "title": "Modern Literary Movements",
+      "desc": "Learn modernism, postmodernism, realism and more with examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=275",
+      "url": "https://www.youtube.com/embed/H–8–e–U–o–S–g"
     },
     {
-      "id": "bus6",
-      "title": "Business Crash Course",
-      "desc": "A short overview of the key ideas in business studies.",
-      "thumbnail": "https://i.ibb.co/r5scsmw/thumbnail132.jpg",
-      "url": "https://www.youtube.com/embed/H77df–25"
+      "id": "a8v6",
+      "title": "Short Story Analysis",
+      "desc": "Learn how to break down stories, characters, setting and conflict.",
+      "thumbnail": "https://picsum.photos/300/200?random=276",
+      "url": "https://www.youtube.com/embed/G–w–CY–L–p–Z"
+    }
+  ],
+    "e1": [
+    {
+      "id": "e1v1",
+      "title": "Digital Marketing Basics",
+      "desc": "Learn the foundations of digital marketing, including audience targeting and online strategy.",
+      "thumbnail": "https://picsum.photos/300/200?random=301",
+      "url": "https://www.youtube.com/embed/nJ1–cJ–C5–o"
+    },
+    {
+      "id": "e1v2",
+      "title": "Facebook Ads Complete Tutorial",
+      "desc": "A step-by-step guide to running effective Facebook Ads for beginners.",
+      "thumbnail": "https://picsum.photos/300/200?random=302",
+      "url": "https://www.youtube.com/embed/b–h–o–5–J–M4w"
+    },
+    {
+      "id": "e1v3",
+      "title": "Google Ads For Beginners",
+      "desc": "Learn how Google Ads works and how to launch high converting ad campaigns.",
+      "thumbnail": "https://picsum.photos/300/200?random=303",
+      "url": "https://www.youtube.com/embed/P–k–A–v–t9–dM0"
+    },
+    {
+      "id": "e1v4",
+      "title": "Content Marketing Strategy",
+      "desc": "Understand the full framework of content creation, planning and optimization.",
+      "thumbnail": "https://picsum.photos/300/200?random=304",
+      "url": "https://www.youtube.com/embed/K–J–xg–F–K–r–g"
+    },
+    {
+      "id": "e1v5",
+      "title": "SEO for Beginners",
+      "desc": "Learn search engine optimization basics with real examples and tools.",
+      "thumbnail": "https://picsum.photos/300/200?random=305",
+      "url": "https://www.youtube.com/embed/8–J–Q–E–i–F–sA"
+    },
+    {
+      "id": "e1v6",
+      "title": "Email Marketing 101",
+      "desc": "Understand how to grow an email list and create engaging email campaigns.",
+      "thumbnail": "https://picsum.photos/300/200?random=306",
+      "url": "https://www.youtube.com/embed/t–P–y–1–PB–0o"
     }
   ],
 
-  "ac7": [
+  "e2": [
     {
-      "id": "eng1",
-      "title": "English Grammar Basics",
-      "desc": "Learn nouns, verbs, tenses, adjectives and the structure of English.",
-      "thumbnail": "https://i.ibb.co/ZdnQzJ6/thumbnail133.jpg",
-      "url": "https://www.youtube.com/embed/2–o–LZ–az"
+      "id": "e2v1",
+      "title": "Personal Finance Basics",
+      "desc": "Learn budgeting, savings and fundamental money management principles.",
+      "thumbnail": "https://picsum.photos/300/200?random=311",
+      "url": "https://www.youtube.com/embed/v–A–0–Tt–u–Ls"
     },
     {
-      "id": "eng2",
-      "title": "English Speaking Practice",
-      "desc": "Improve fluency and speaking confidence with easy exercises.",
-      "thumbnail": "https://i.ibb.co/1fznXK3/thumbnail134.jpg",
-      "url": "https://www.youtube.com/embed/q–Bo–HztM"
+      "id": "e2v2",
+      "title": "Investing For Beginners",
+      "desc": "Understand stocks, ETFs, bonds and long-term investment strategies.",
+      "thumbnail": "https://picsum.photos/300/200?random=312",
+      "url": "https://www.youtube.com/embed/m–D–Y–p–Y–A–A–g"
     },
     {
-      "id": "eng3",
-      "title": "Vocabulary Building",
-      "desc": "Learn important English vocabulary and usage examples.",
-      "thumbnail": "https://i.ibb.co/pP8FZBV/thumbnail135.jpg",
-      "url": "https://www.youtube.com/embed/P–u–y–qY"
+      "id": "e2v3",
+      "title": "Compound Interest Explained",
+      "desc": "See how compound interest grows your money over time with real examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=313",
+      "url": "https://www.youtube.com/embed/w–T–K–M–t3–u–I"
     },
     {
-      "id": "eng4",
-      "title": "Writing Skills",
-      "desc": "Learn paragraphs, essays, email writing and report formatting.",
-      "thumbnail": "https://i.ibb.co/XD5vj40/thumbnail136.jpg",
-      "url": "https://www.youtube.com/embed/Z–Ivb–Yg"
+      "id": "e2v4",
+      "title": "Building Good Financial Habits",
+      "desc": "Learn habits that help you stay financially strong for life.",
+      "thumbnail": "https://picsum.photos/300/200?random=314",
+      "url": "https://www.youtube.com/embed/d–1–T–7–S–h–1E"
     },
     {
-      "id": "eng5",
-      "title": "Pronunciation Guide",
-      "desc": "Improve clarity and reduce mistakes in English pronunciation.",
-      "thumbnail": "https://i.ibb.co/kqg4pCx/thumbnail137.jpg",
-      "url": "https://www.youtube.com/embed/H–RNc–tY"
+      "id": "e2v5",
+      "title": "Basics of Risk Management",
+      "desc": "Understand how to measure risk and protect your investments.",
+      "thumbnail": "https://picsum.photos/300/200?random=315",
+      "url": "https://www.youtube.com/embed/G–D–W–0–x–HEO0"
     },
     {
-      "id": "eng6",
-      "title": "English Crash Course",
-      "desc": "A complete crash course for English grammar and usage.",
-      "thumbnail": "https://i.ibb.co/sC4p8b4/thumbnail138.jpg",
-      "url": "https://www.youtube.com/embed/—40lZ8"
+      "id": "e2v6",
+      "title": "How To Build Wealth",
+      "desc": "A complete step-by-step roadmap to long-term financial freedom.",
+      "thumbnail": "https://picsum.photos/300/200?random=316",
+      "url": "https://www.youtube.com/embed/H–G–2–a–WS–Vb–M"
     }
   ],
 
-  "ac8": [
+  "e3": [
     {
-      "id": "geo1",
-      "title": "Geography Full Course",
-      "desc": "Learn continents, climates, maps and global physical features.",
-      "thumbnail": "https://i.ibb.co/YPygvMc/thumbnail139.jpg",
-      "url": "https://www.youtube.com/embed/Q–7–H2X"
+      "id": "e3v1",
+      "title": "Public Speaking Basics",
+      "desc": "Learn how to speak confidently and handle stage fear with ease.",
+      "thumbnail": "https://picsum.photos/300/200?random=321",
+      "url": "https://www.youtube.com/embed/Z–y–K–K–Yx–wY"
     },
     {
-      "id": "geo2",
-      "title": "Climate & Weather",
-      "desc": "Understand weather patterns, climate zones and atmospheric processes.",
-      "thumbnail": "https://i.ibb.co/n1sQfrN/thumbnail140.jpg",
-      "url": "https://www.youtube.com/embed/—lYp4i"
+      "id": "e3v2",
+      "title": "Body Language Tips",
+      "desc": "Understand how to communicate confidently using gestures and posture.",
+      "thumbnail": "https://picsum.photos/300/200?random=322",
+      "url": "https://www.youtube.com/embed/n–x–Y–f–Ta–g–U"
     },
     {
-      "id": "geo3",
-      "title": "World Map Explained",
-      "desc": "Learn continents, oceans, borders and important world geography.",
-      "thumbnail": "https://i.ibb.co/yh4Y2fg/thumbnail141.jpg",
-      "url": "https://www.youtube.com/embed/—D3KZn"
+      "id": "e3v3",
+      "title": "Voice Control Techniques",
+      "desc": "Learn tone, pitch and voice projection for better communication.",
+      "thumbnail": "https://picsum.photos/300/200?random=323",
+      "url": "https://www.youtube.com/embed/Q–2–y–4–d–M–d–I"
     },
     {
-      "id": "geo4",
-      "title": "Earth Structure",
-      "desc": "Mantle, crust, core and geological processes simplified.",
-      "thumbnail": "https://i.ibb.co/gS1Tswq/thumbnail142.jpg",
-      "url": "https://www.youtube.com/embed/l–n9nXl"
+      "id": "e3v4",
+      "title": "How To Write A Speech",
+      "desc": "Step-by-step method to create powerful and engaging speeches.",
+      "thumbnail": "https://picsum.photos/300/200?random=324",
+      "url": "https://www.youtube.com/embed/l–J–X–3–x–Q–C–4"
     },
     {
-      "id": "geo5",
-      "title": "Natural Disasters",
-      "desc": "Learn about earthquakes, volcanoes, floods and natural hazards.",
-      "thumbnail": "https://i.ibb.co/52bYrv1/thumbnail143.jpg",
-      "url": "https://www.youtube.com/embed/—6o–Zl"
+      "id": "e3v5",
+      "title": "Overcome Stage Fear",
+      "desc": "Techniques to remove fear and become a confident speaker.",
+      "thumbnail": "https://picsum.photos/300/200?random=325",
+      "url": "https://www.youtube.com/embed/g–d–N–zD–P–h–w"
     },
     {
-      "id": "geo6",
-      "title": "Geography Crash Course",
-      "desc": "A complete crash course on global and physical geography.",
-      "thumbnail": "https://i.ibb.co/C9S1phd/thumbnail144.jpg",
-      "url": "https://www.youtube.com/embed/—FL—Wk"
+      "id": "e3v6",
+      "title": "Improve Your Communication",
+      "desc": "Simple techniques to improve speaking skills and clarity.",
+      "thumbnail": "https://picsum.photos/300/200?random=326",
+      "url": "https://www.youtube.com/embed/W–w–e–P–t–W–k–4"
+    }
+  ],
+
+  "e4": [
+    {
+      "id": "e4v1",
+      "title": "Creative Writing Basics",
+      "desc": "Learn how to create stories, build characters and generate ideas.",
+      "thumbnail": "https://picsum.photos/300/200?random=331",
+      "url": "https://www.youtube.com/embed/K–i–R–iO–e–O–g"
+    },
+    {
+      "id": "e4v2",
+      "title": "How To Create Story Plots",
+      "desc": "Understand story structure, tension and narrative techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=332",
+      "url": "https://www.youtube.com/embed/S–x–N–L–b–Z–e–Y"
+    },
+    {
+      "id": "e4v3",
+      "title": "Writing Dialogue",
+      "desc": "Learn to write realistic and engaging conversations.",
+      "thumbnail": "https://picsum.photos/300/200?random=333",
+      "url": "https://www.youtube.com/embed/U–q–l–W–m–w30"
+    },
+    {
+      "id": "e4v4",
+      "title": "Developing Characters",
+      "desc": "Build strong characters with motivations and depth.",
+      "thumbnail": "https://picsum.photos/300/200?random=334",
+      "url": "https://www.youtube.com/embed/e–G–v–8–v–Y–iE"
+    },
+    {
+      "id": "e4v5",
+      "title": "Creative Storytelling",
+      "desc": "Learn how to tell stories that emotionally connect with readers.",
+      "thumbnail": "https://picsum.photos/300/200?random=335",
+      "url": "https://www.youtube.com/embed/n–Z–7–g–c–o–2–I"
+    },
+    {
+      "id": "e4v6",
+      "title": "Fiction Writing Tips",
+      "desc": "Improve your fiction writing with powerful techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=336",
+      "url": "https://www.youtube.com/embed/z–J–P–d–Q–K–J–o"
+    }
+  ],
+
+  "e5": [
+    {
+      "id": "e5v1",
+      "title": "Digital Illustration Basics",
+      "desc": "Learn how to draw digitally using simple tools and techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=341",
+      "url": "https://www.youtube.com/embed/O–q–A–X–x–F–mI"
+    },
+    {
+      "id": "e5v2",
+      "title": "Digital Coloring Techniques",
+      "desc": "Understand shading, lighting and color balance in illustrations.",
+      "thumbnail": "https://picsum.photos/300/200?random=342",
+      "url": "https://www.youtube.com/embed/E–S–J–y–V–F–gk"
+    },
+    {
+      "id": "e5v3",
+      "title": "Drawing Faces Digitally",
+      "desc": "Learn proportions and facial detailing for digital portraits.",
+      "thumbnail": "https://picsum.photos/300/200?random=343",
+      "url": "https://www.youtube.com/embed/b–Q–D–Y–H–x–oA"
+    },
+    {
+      "id": "e5v4",
+      "title": "Character Design Basics",
+      "desc": "Create characters with strong silhouettes and personality.",
+      "thumbnail": "https://picsum.photos/300/200?random=344",
+      "url": "https://www.youtube.com/embed/8–o–P–S–a–f–Ng"
+    },
+    {
+      "id": "e5v5",
+      "title": "Digital Art Composition",
+      "desc": "Learn how to arrange elements to create dynamic artwork.",
+      "thumbnail": "https://picsum.photos/300/200?random=345",
+      "url": "https://www.youtube.com/embed/F–p–M–w–t–d–2–Y"
+    },
+    {
+      "id": "e5v6",
+      "title": "How to Improve Digital Art",
+      "desc": "Tips and techniques for leveling up your digital illustrations.",
+      "thumbnail": "https://picsum.photos/300/200?random=346",
+      "url": "https://www.youtube.com/embed/J–z–s–p–T–k–Xo"
+    }
+  ],
+
+  "e6": [
+    {
+      "id": "e6v1",
+      "title": "Social Media Marketing Basics",
+      "desc": "Learn key strategies to promote brands on social media platforms.",
+      "thumbnail": "https://picsum.photos/300/200?random=351",
+      "url": "https://www.youtube.com/embed/H–s–4–Z–Y–M–rQ"
+    },
+    {
+      "id": "e6v2",
+      "title": "Instagram Growth Strategy",
+      "desc": "Learn how to grow your Instagram page organically.",
+      "thumbnail": "https://picsum.photos/300/200?random=352",
+      "url": "https://www.youtube.com/embed/Q–k–S–n–W–9P–M"
+    },
+    {
+      "id": "e6v3",
+      "title": "TikTok Marketing Tips",
+      "desc": "Understand how TikTok's algorithm works and grow fast.",
+      "thumbnail": "https://picsum.photos/300/200?random=353",
+      "url": "https://www.youtube.com/embed/m–t–T–y–5–qZI"
+    },
+    {
+      "id": "e6v4",
+      "title": "Facebook Page Management",
+      "desc": "Learn posting, boosting and engaging audience techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=354",
+      "url": "https://www.youtube.com/embed/Y–d–E–l–s–o–N–x–w"
+    },
+    {
+      "id": "e6v5",
+      "title": "Building Online Presence",
+      "desc": "Learn how to create a strong identity for brands online.",
+      "thumbnail": "https://picsum.photos/300/200?random=355",
+      "url": "https://www.youtube.com/embed/I–h–Q–5–H–I–i–c"
+    },
+    {
+      "id": "e6v6",
+      "title": "Complete SMM Crash Course",
+      "desc": "Step-by-step guide to mastering social media marketing quickly.",
+      "thumbnail": "https://picsum.photos/300/200?random=356",
+      "url": "https://www.youtube.com/embed/t–D–U–i–V–P–W–k"
+    }
+  ],
+
+  "e7": [
+    {
+      "id": "e7v1",
+      "title": "Email Marketing Basics",
+      "desc": "Learn email list building and effective subject line writing.",
+      "thumbnail": "https://picsum.photos/300/200?random=361",
+      "url": "https://www.youtube.com/embed/b–x–N–t–j4D–o"
+    },
+    {
+      "id": "e7v2",
+      "title": "Write High-Converting Emails",
+      "desc": "Learn email copywriting techniques that get clicks and opens.",
+      "thumbnail": "https://picsum.photos/300/200?random=362",
+      "url": "https://www.youtube.com/embed/f–e–0–G–s–M–3u"
+    },
+    {
+      "id": "e7v3",
+      "title": "Email Automation",
+      "desc": "Understand automated sequences and funnels for conversions.",
+      "thumbnail": "https://picsum.photos/300/200?random=363",
+      "url": "https://www.youtube.com/embed/W–H–u–o–v–o–8A"
+    },
+    {
+      "id": "e7v4",
+      "title": "Cold Email Strategy",
+      "desc": "Learn how to write professional cold emails that get responses.",
+      "thumbnail": "https://picsum.photos/300/200?random=364",
+      "url": "https://www.youtube.com/embed/T–w–O–6–Q–C–0w"
+    },
+    {
+      "id": "e7v5",
+      "title": "Improve Email Delivery",
+      "desc": "Techniques to avoid spam and improve sender score.",
+      "thumbnail": "https://picsum.photos/300/200?random=365",
+      "url": "https://www.youtube.com/embed/K–B–i–0L–o–v–i"
+    },
+    {
+      "id": "e7v6",
+      "title": "Email Marketing Tools",
+      "desc": "Learn Mailchimp, Brevo and popular email tools quickly.",
+      "thumbnail": "https://picsum.photos/300/200?random=366",
+      "url": "https://www.youtube.com/embed/a–k–Z–oK–b–8u"
+    }
+  ],
+
+  "e8": [
+    {
+      "id": "e8v1",
+      "title": "SEO Full Overview",
+      "desc": "Understand on-page, off-page and technical SEO with deep explanation.",
+      "thumbnail": "https://picsum.photos/300/200?random=371",
+      "url": "https://www.youtube.com/embed/H–_–L–2–P–L–x–E"
+    },
+    {
+      "id": "e8v2",
+      "title": "Keyword Research Tutorial",
+      "desc": "Learn how to find high-value keywords with low competition.",
+      "thumbnail": "https://picsum.photos/300/200?random=372",
+      "url": "https://www.youtube.com/embed/C–X–a–3–6–N–z–o"
+    },
+    {
+      "id": "e8v3",
+      "title": "On-Page SEO Optimization",
+      "desc": "Learn meta tags, headings, image optimization and more.",
+      "thumbnail": "https://picsum.photos/300/200?random=373",
+      "url": "https://www.youtube.com/embed/O–F–k–x–L–q–J–8"
+    },
+    {
+      "id": "e8v4",
+      "title": "Backlink Building Guide",
+      "desc": "Learn powerful strategies for building high-quality backlinks.",
+      "thumbnail": "https://picsum.photos/300/200?random=374",
+      "url": "https://www.youtube.com/embed/y–m–C–o–b–j–O–E"
+    },
+    {
+      "id": "e8v5",
+      "title": "Technical SEO Explained",
+      "desc": "Understand sitemaps, robots.txt, speed optimization and indexing.",
+      "thumbnail": "https://picsum.photos/300/200?random=375",
+      "url": "https://www.youtube.com/embed/z–v–U–3–N–l–E–E"
+    },
+    {
+      "id": "e8v6",
+      "title": "SEO Ranking Factors",
+      "desc": "Learn the major ranking signals used by Google in 2024.",
+      "thumbnail": "https://picsum.photos/300/200?random=376",
+      "url": "https://www.youtube.com/embed/p–2–b–n–N–o–S–8"
+    }
+  ],
+    "m1": [
+    {
+      "id": "m1v1",
+      "title": "Machine Learning Introduction",
+      "desc": "Understand what machine learning is, its types, and real-world applications.",
+      "thumbnail": "https://picsum.photos/300/200?random=401",
+      "url": "https://www.youtube.com/embed/GwIo3gDZCVQ"
+    },
+    {
+      "id": "m1v2",
+      "title": "Supervised Learning Basics",
+      "desc": "Learn regression, classification and supervised ML workflows with examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=402",
+      "url": "https://www.youtube.com/embed/ukzFI9rgwfU"
+    },
+    {
+      "id": "m1v3",
+      "title": "Unsupervised Learning Explained",
+      "desc": "Understand clustering, dimensionality reduction and unsupervised techniques.",
+      "thumbnail": "https://picsum.photos/300/200?random=403",
+      "url": "https://www.youtube.com/embed/4–6–pz–G–s–Xc"
+    },
+    {
+      "id": "m1v4",
+      "title": "Linear Regression Complete Guide",
+      "desc": "Learn the math, implementation and intuition behind linear regression.",
+      "thumbnail": "https://picsum.photos/300/200?random=404",
+      "url": "https://www.youtube.com/embed/n–KX8–gD–QpU"
+    },
+    {
+      "id": "m1v5",
+      "title": "Logistic Regression Explained",
+      "desc": "Step-by-step breakdown of logistic regression with graphs and examples.",
+      "thumbnail": "https://picsum.photos/300/200?random=405",
+      "url": "https://www.youtube.com/embed/y–2–R–q–A–f–w–T"
+    },
+    {
+      "id": "m1v6",
+      "title": "ML Model Evaluation",
+      "desc": "Learn accuracy, precision, recall, F1 score and confusion matrix.",
+      "thumbnail": "https://picsum.photos/300/200?random=406",
+      "url": "https://www.youtube.com/embed/85d–S–L–z–L–g–U"
+    }
+  ],
+
+  "m2": [
+    {
+      "id": "m2v1",
+      "title": "Deep Learning Introduction",
+      "desc": "Understand deep learning, neural networks and how they learn from data.",
+      "thumbnail": "https://picsum.photos/300/200?random=411",
+      "url": "https://www.youtube.com/embed/aircAruvnKk"
+    },
+    {
+      "id": "m2v2",
+      "title": "Artificial Neural Networks Explained",
+      "desc": "Learn perceptrons, activation functions, forward and backward propagation.",
+      "thumbnail": "https://picsum.photos/300/200?random=412",
+      "url": "https://www.youtube.com/embed/b–E–2–Qu–p–C–Jw"
+    },
+    {
+      "id": "m2v3",
+      "title": "Building Neural Networks",
+      "desc": "Create neural network models step-by-step using modern tools.",
+      "thumbnail": "https://picsum.photos/300/200?random=413",
+      "url": "https://www.youtube.com/embed/w–Q–Z–e–DB–gGI"
+    },
+    {
+      "id": "m2v4",
+      "title": "Backpropagation Algorithm",
+      "desc": "Detailed explanation of gradient descent and backpropagation math.",
+      "thumbnail": "https://picsum.photos/300/200?random=414",
+      "url": "https://www.youtube.com/embed/Ilg–3–I–_–L–t–A"
+    },
+    {
+      "id": "m2v5",
+      "title": "CNN (Convolutional Neural Networks)",
+      "desc": "Learn convolution, pooling and CNN architecture for image processing.",
+      "thumbnail": "https://picsum.photos/300/200?random=415",
+      "url": "https://www.youtube.com/embed/Y–N–f–9–Dw–H88"
+    },
+    {
+      "id": "m2v6",
+      "title": "RNN & LSTM Explained",
+      "desc": "Understand sequential models and their real-world usage.",
+      "thumbnail": "https://picsum.photos/300/200?random=416",
+      "url": "https://www.youtube.com/embed/8–fw–M–N––Ns"
+    }
+  ],
+
+  "m3": [
+    {
+      "id": "m3v1",
+      "title": "AI for Business Overview",
+      "desc": "Understand how artificial intelligence is transforming business operations.",
+      "thumbnail": "https://picsum.photos/300/200?random=421",
+      "url": "https://www.youtube.com/embed/t–n–N–c–8–S–0–w"
+    },
+    {
+      "id": "m3v2",
+      "title": "Data-Driven Decision Making",
+      "desc": "Learn how businesses use AI and data analytics to make decisions.",
+      "thumbnail": "https://picsum.photos/300/200?random=422",
+      "url": "https://www.youtube.com/embed/–J–E–F–H–_3–m–M"
+    },
+    {
+      "id": "m3v3",
+      "title": "AI in Marketing",
+      "desc": "See how companies use AI for personalization and customer insights.",
+      "thumbnail": "https://picsum.photos/300/200?random=423",
+      "url": "https://www.youtube.com/embed/e–U–d–V–_6–Y–M"
+    },
+    {
+      "id": "m3v4",
+      "title": "AI Automation Tools",
+      "desc": "Overview of AI tools used across industries for automation.",
+      "thumbnail": "https://picsum.photos/300/200?random=424",
+      "url": "https://www.youtube.com/embed/d–l–s–9–Q–o–N–V–o"
+    },
+    {
+      "id": "m3v5",
+      "title": "AI for Finance",
+      "desc": "Learn how AI is transforming investment, trading and risk analysis.",
+      "thumbnail": "https://picsum.photos/300/200?random=425",
+      "url": "https://www.youtube.com/embed/0–Z–7–x–w–G–bi"
+    },
+    {
+      "id": "m3v6",
+      "title": "Future of AI in Business",
+      "desc": "What the next 10 years of AI innovation will look like for business.",
+      "thumbnail": "https://picsum.photos/300/200?random=426",
+      "url": "https://www.youtube.com/embed/G–s–y–c–T–e–j–7–o"
+    }
+  ],
+
+  "m4": [
+    {
+      "id": "m4v1",
+      "title": "Reinforcement Learning Introduction",
+      "desc": "Learn the fundamentals of reinforcement learning and agent-environment interaction.",
+      "thumbnail": "https://picsum.photos/300/200?random=431",
+      "url": "https://www.youtube.com/embed/–hc–B–u–Q–P–g–b8"
+    },
+    {
+      "id": "m4v2",
+      "title": "Markov Decision Process",
+      "desc": "Understand states, actions, transitions and MDPs with simple visuals.",
+      "thumbnail": "https://picsum.photos/300/200?random=432",
+      "url": "https://www.youtube.com/embed/–3–ZR–M–5–g–Q–E"
+    },
+    {
+      "id": "m4v3",
+      "title": "Q-Learning Basics",
+      "desc": "Learn Q-values, reward functions and how Q-learning works.",
+      "thumbnail": "https://picsum.photos/300/200?random=433",
+      "url": "https://www.youtube.com/embed/–E–M–F–i–a–D–g–q–E"
+    },
+    {
+      "id": "m4v4",
+      "title": "Deep Q Learning",
+      "desc": "Understand how deep learning integrates with reinforcement learning.",
+      "thumbnail": "https://picsum.photos/300/200?random=434",
+      "url": "https://www.youtube.com/embed/–_–dV–B–f–e–bR–Q"
+    },
+    {
+      "id": "m4v5",
+      "title": "Policy Gradient Methods",
+      "desc": "Learn advanced RL algorithms like REINFORCE and actor-critic.",
+      "thumbnail": "https://picsum.photos/300/200?random=435",
+      "url": "https://www.youtube.com/embed/H–u–q–c–n–P–U–m8"
+    },
+    {
+      "id": "m4v6",
+      "title": "RL in Real Applications",
+      "desc": "Explore how reinforcement learning is used in robotics and gaming.",
+      "thumbnail": "https://picsum.photos/300/200?random=436",
+      "url": "https://www.youtube.com/embed/8–f–5–S–N–p–qPI"
     }
   ]
+
 
 
 }

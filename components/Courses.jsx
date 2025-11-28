@@ -71,7 +71,7 @@ const Course = ({ course }) => {
             </div>
             <div className="flex items-center justify-between pt-4">
               
-              <Link href={`/video/${course.id}`}>
+              <Link href={`/video/${course.id}?cat=${course.category}`}>
                 <button className="px-4 py-2 text-sm font-semibold border border-2 border-[#0fb6e3] text-black rounded-lg hover:bg-[#16748e] hover:text-white shadow-md transition-all duration-300 hover:shadow-lg">
                   Enroll Now
                 </button>
