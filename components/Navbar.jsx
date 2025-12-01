@@ -1,5 +1,7 @@
 "use client";
 
+import LoginModal from "./LoginModal";
+// import { useState } from "react";
 import React, { useState } from "react";
 import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
@@ -7,6 +9,10 @@ import Link from "next/link";
 import { ArrowUpRight, Menu, X } from "lucide-react";
 
 const Navbar = () => {
+
+const [openModal, setOpenModal] = useState(false);
+const [modalType, setModalType] = useState("signIn");
+
 const [menuOpen, setMenuOpen] = useState(false);
 
 const toggleMenu = () => setMenuOpen(!menuOpen);
@@ -55,12 +61,20 @@ return ( <header className="w-full">
     </ul>
 
     <div className="hidden lg:flex items-center gap-4">
-      <button className="group border border-[#0fb6e3] inline-flex items-center gap-2 text-white font-medium px-6 py-3 rounded-full hover:bg-[#0fb6e3] transition-all duration-300">
+      <button
+        onClick={() => {
+          setModalType("signIn");
+          setOpenModal(true);
+        }} className="group border border-[#0fb6e3] inline-flex items-center gap-2 text-white font-medium px-6 py-3 rounded-full hover:bg-[#0fb6e3] transition-all duration-300">
         Sign In
         <ArrowUpRight className="group-hover:translate-x-1 group-hover:-translate-y-1 w-5 h-5 transition-transform" />
       </button>
 
-      <button className="group bg-[#0fb6e3] inline-flex items-center gap-2 text-white font-medium px-6 py-3 rounded-full shadow-md hover:shadow-lg hover:scale-99 transition-all duration-300">
+      <button
+        onClick={() => {
+          setModalType("signUp");
+          setOpenModal(true);
+        }} className="group bg-[#0fb6e3] inline-flex items-center gap-2 text-white font-medium px-6 py-3 rounded-full shadow-md hover:shadow-lg hover:scale-99 transition-all duration-300">
         Sign Up
         <ArrowUpRight className="group-hover:translate-x-1 group-hover:-translate-y-1 w-5 h-5 transition-transform" />
       </button>
@@ -112,6 +126,12 @@ return ( <header className="w-full">
       </div>
     </div>
   )}
+  <LoginModal
+    open={openModal}
+    onClose={() => setOpenModal(false)}
+    type={modalType}
+  />
+
 </header>
 
 );

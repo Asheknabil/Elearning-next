@@ -1,0 +1,50 @@
+.container {
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+  overflow: hidden;
+}
+
+/* Sign In/Up Panels */
+.sign-in-container {
+  z-index: 2;
+  transition: all 0.6s ease-in-out;
+}
+
+.container.right-panel-active .sign-in-container {
+  transform: translateX(100%);
+}
+
+.sign-up-container {
+  opacity: 0;
+  z-index: 1;
+  transition: all 0.6s ease-in-out;
+}
+
+.container.right-panel-active .sign-up-container {
+  opacity: 1;
+  transform: translateX(100%);
+  z-index: 5;
+}
+
+/* Overlay Animation */
+.overlay-container {
+  transition: transform 0.6s ease-in-out;
+}
+
+.container.right-panel-active .overlay-container {
+  transform: translateX(-100%);
+}
+
+.overlay {
+  transition: transform 0.6s ease-in-out;
+}
+
+.container.right-panel-active .overlay {
+  transform: translateX(50%);
+}
+
+/* Overlay Panels */
+.overlay-panel {
+  transition: transform 0.6s ease-in-out;
+}
