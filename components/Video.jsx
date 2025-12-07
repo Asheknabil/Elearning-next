@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { User, Star, Dot } from "lucide-react";
+import { User, Star } from "lucide-react";
 
 export default function VideoList({ videos, playVideo }) {
   return (
@@ -13,10 +13,10 @@ export default function VideoList({ videos, playVideo }) {
           playVideo={playVideo}
         />
       ))}
-
     </div>
   );
 }
+
 
 function VideoCard({ video, playVideo }) {
   const [isHovered, setIsHovered] = useState(false);

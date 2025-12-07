@@ -1,26 +1,28 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useSearchParams, useParams } from "next/navigation";
 import VideoList from "@/components/Video";
-import { useSearchParams } from "next/navigation";
 
-export default function VideoPage({ params }) {
-  const { id } = params;
+export default function VideoPage() {
+  const params = useParams();
+  const id = params.id;
+
   const searchParams = useSearchParams();
   const playVideoId = searchParams.get("video");
+
 
   const [courseVideos, setCourseVideos] = useState([]);
 
   useEffect(() => {
     const loadData = async () => {
-      const res = await fetch("/video.json"); // public/video.json
+      const res = await fetch("/video.json");
       const json = await res.json();
 
       if (json[id]) {
         setCourseVideos(json[id]);
       }
     };
-
     loadData();
   }, [id]);
 
@@ -29,11 +31,9 @@ export default function VideoPage({ params }) {
   return (
     <div className="min-h-screen py-10">
 
-      {/* Video Player */}
       {currentVideo && (
         <div className="max-w-4xl mx-auto mb-10">
           <h2 className="text-xl font-bold mb-3">{currentVideo.title}</h2>
-
           <iframe
             width="100%"
             height="450"
@@ -44,7 +44,7 @@ export default function VideoPage({ params }) {
         </div>
       )}
 
-      {/* Video List */}
+
       <VideoList videos={courseVideos} />
     </div>
   );

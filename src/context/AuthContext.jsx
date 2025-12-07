@@ -7,7 +7,6 @@ const AuthContext = createContext();
 export function AuthProvider({ children }) {
   const [user, setUser] = useState(null);
 
-  // Load saved user on first render
   useEffect(() => {
     const saved = localStorage.getItem("user");
     if (saved) {
@@ -19,10 +18,8 @@ export function AuthProvider({ children }) {
   const signup = (name, email, password) => {
     const newUser = { name, email, password };
 
-    // save in localStorage
     localStorage.setItem("user", JSON.stringify(newUser));
 
-    // update context state
     setUser(newUser);
   };
 
