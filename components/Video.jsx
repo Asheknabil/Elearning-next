@@ -1,92 +1,106 @@
 "use client";
-import { useState, useEffect } from "react";
 
-export default function VideoList({ videos }) {
-  const [search, setSearch] = useState("");
-  const [filtered, setFiltered] = useState(videos);
-  const [category, setCategory] = useState("all");
+import { useState } from "react";
+import { User, Star, Dot } from "lucide-react";
 
-  useEffect(() => {
-    let result = videos;
+export default function VideoList({ videos, playVideo }) {
+  return (
+    <div className="space-y-6">
+      {videos.map((video, index) => (
+        <VideoCard
+          key={video.videoId || video.id || index}
+          video={video}
+          playVideo={playVideo}
+        />
+      ))}
 
-    // Search filter
-    if (search.trim() !== "") {
-      result = result.filter(
-        (v) =>
-          v.title.toLowerCase().includes(search.toLowerCase()) ||
-          v.desc.toLowerCase().includes(search.toLowerCase())
-      );
-    }
+    </div>
+  );
+}
 
-    // Extra: Category filter (optional)
-    if (category !== "all") {
-      result = result.filter((v) => v.id.startsWith(category));
-    }
+function VideoCard({ video, playVideo }) {
+  const [isHovered, setIsHovered] = useState(false);
 
-    setFiltered(result);
-  }, [search, category, videos]);
+  // Same star logic from Courses.jsx
+  const StarRating = ({ rating }) => {
+    const full = Math.floor(rating);
+    return (
+      <div className="flex space-x-0.5">
+        {[...Array(5)].map((_, i) => (
+          <Star
+            key={i}
+            className={`w-4 h-4 transition-colors duration-300 ${
+              i < full ? "text-yellow-500 fill-yellow-500" : "text-gray-300"
+            }`}
+          />
+        ))}
+      </div>
+    );
+  };
 
   return (
-    <div className="max-w-4xl mx-auto py-10 px-4">
+    <div
+      className="relative p-4 bg-white rounded-xl shadow-lg transition-transform duration-300 hover:shadow-xl cursor-pointer"
+      onClick={() => playVideo(video.videoId)}
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+    >
+      <div className="flex gap-4 sm:flex-row flex-col">
 
-      {/* Search + Filter */}
-      <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
-        
-        {/* Search */}
-        <input
-          type="text"
-          placeholder="Search videos..."
-          className="w-full md:w-1/2 px-4 py-2 border rounded-lg"
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-        />
-
-        {/* Category Filter */}
-        <select
-          className="px-4 py-2 border rounded-lg"
-          value={category}
-          onChange={(e) => setCategory(e.target.value)}
+        {/* Thumbnail Left */}
+        <div
+          className={`relative flex-shrink-0 w-full sm:w-1/3 aspect-video overflow-hidden rounded-xl p-2 transition-all duration-500 ${
+            isHovered ? "border-4 border-[#0fb6e3]" : "border-4 border-transparent"
+          }`}
         >
-          <option value="all">All Categories</option>
-          <option value="d">Design</option>
-          <option value="c">Development</option>
-          <option value="a">Academic</option>
-          <option value="e">E-Learning</option>
-          <option value="m">Machine Learning</option>
-        </select>
-      </div>
+          <img
+            src={video.thumbnail}
+            alt={video.title}
+            className={`w-full h-full object-cover rounded-lg transition-transform duration-500 ${
+              isHovered ? "scale-105" : "scale-100"
+            }`}
+          />
+        </div>
 
-      {/* Video List */}
-      <div className="flex flex-col gap-6">
-        {filtered.map((v) => (
-          <div
-            key={v.id}
-            className="flex gap-4 p-4 border rounded-lg shadow-sm hover:shadow-md cursor-pointer"
-          >
-            <img
-              src={v.thumbnail}
-              className="w-40 h-28 object-cover rounded-md"
-            />
+        {/* Text Right */}
+        <div className="flex flex-col justify-between w-full sm:w-2/3">
+          <div className="space-y-2">
 
-            <div>
-              <h3 className="text-lg font-semibold">{v.title}</h3>
-              <p className="text-gray-600 text-sm mb-2">{v.desc}</p>
+            {/* Title */}
+            <h3 className="text-lg font-bold text-gray-800 line-clamp-2">
+              {video.title}
+            </h3>
 
-              <a
-                href={`?video=${v.id}`}
-                className="text-blue-600 underline text-sm"
-              >
-                Watch Now →
-              </a>
+            {/* Description */}
+            <p className="text-gray-600 text-sm line-clamp-2">
+              {video.description}
+            </p>
+
+            {/* Rating + Views */}
+            <div className="flex items-center justify-between mt-2">
+              <div className="flex items-center space-x-2">
+                <StarRating rating={video.rating || 4.8} />
+                <span className="text-sm font-semibold text-gray-600">
+                  {video.rating || 4.8}/5 rating
+                </span>
+              </div>
             </div>
-          </div>
-        ))}
 
-        {filtered.length === 0 && (
-          <p className="text-center py-10 text-gray-500">
-            No videos found.
-          </p>
-        )}
+            {/* Instructor */}
+            <div className="flex items-center justify-between pt-4">
+              <div className="flex items-center text-sm text-gray-500">
+                <User className="w-4 h-4 mr-1" />
+                <span>{video.instructor || "Instructor Unknown"}</span>
+              </div>
+
+              <button className="px-4 py-2 text-sm font-semibold border border-2 border-[#0fb6e3] text-black rounded-lg hover:bg-[#16748e] hover:text-white shadow-md transition-all duration-300 hover:shadow-lg">
+                Watch Now
+              </button>
+            </div>
+
+          </div>
+        </div>
+
       </div>
     </div>
   );
